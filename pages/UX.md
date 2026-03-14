@@ -1,0 +1,9 @@
+- User Experience
+	- Es la encargada de entender como se siente el usuario al interactuar con un producto o servicio
+		- Esto es lo que Fideliza al cliente, ya que la UX involucra aspectos psicologicos, sociologicos, demograficos, e interactivos del usuario.
+	- La UX no es solo el uso del producto y sus caracteristicas en si, sino que abarca otros aspectos como el Packaging, Servicios Post-venta, Reventa del producto, Mantenimiento y Vida util, y muchos otros aspectos que las empresas deben cuidar para mantener la Fidelidad del usuario. [[CX]]
+	- Requiere tener la correcta información respecto del usuario y del entorno
+		- Es por esto que se requiere una investigación lo suficientemente exhaustiva para entender las necesidades del usuario, como satisfacerlas, y como entender el comportamiento innato del usuario
+		- A este punto refiere la [[Arquitectura de la información]] y el [[Análisis de los usuarios]]
+		- La correcta información permite optar por la correcta [[Estrategia de contenido]] que se va a presentar a los usuarios
+	- La UX se asocia mas al [[Hemisferio izquierdo del cerebro]]

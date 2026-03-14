@@ -1,0 +1,1 @@
+- El Data dir, es la dirección en donde se encuentra la versión del gestor de base de daros que se va a utilizar

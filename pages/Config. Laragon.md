@@ -1,0 +1,4 @@
+- Configuracion inicial de laragon para ejecutar codigo [[php]]
+	- Cada vez que se inicia un proyecto nuevo, hay que configurar el [[Data dir]] y el [[Root documents]]
+	- Esto se hace en las opciones de configuración de Laragon
+	-

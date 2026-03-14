@@ -1,0 +1,1 @@
+- Tiene que ver mas con el entendimiento, orden o funcionamiento [[Lógico]] de las cosas

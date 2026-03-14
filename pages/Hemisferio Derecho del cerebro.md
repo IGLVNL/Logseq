@@ -1,0 +1,1 @@
+- Es aquel que interpreta mejor todo lo relacionado a lo estético, creatividad, colores, diseños, etc.

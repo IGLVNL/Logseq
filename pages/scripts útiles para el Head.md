@@ -1,0 +1,13 @@
+- Conexion a la API reCapcha de Google
+	- ```html <script src="https://www.google.com/recaptcha/api.js" async defer></script>```
+- Conexión a Librerías externas por CDN (servidores públicos)
+	- jsPDF - Genera PDF con JS [[jsPDF]]
+		- ```html<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.4.0/jspdf.umd.min.js"></script>```
+	- Axios - Permite hacer peticiones HTTP a servidores o APIs con JS. [[Axios]]
+		- ```html<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>```
+	- jQuery - Facilita trabajar con JS y el DOM (elementos HTML). [[jQuery]]
+		- ```html<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>```
+	- Bootstrap - Permite utilizar estilos predefinidos. [[Bootstrap]]
+		- ```html<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">```
+		- El siguiente permite cargar el JS de Bootstrap.
+		- ```html<script src="https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/js/bootstrap.bundle.min.js"></script>```

@@ -1,0 +1,2 @@
+- Experiencia del Cliente
+	- Incluye los elemntos ajenos al uso del producto o servicio, pero que hacen a la experiencia del cliente con la marca o empresa. [[BX]]

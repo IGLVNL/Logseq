@@ -1,0 +1,5 @@
+- User Experience
+	- Es la encargada de entender como se siente el usuario al interactuar con un producto o servicio
+		- Esto es lo que Fideliza al cliente, ya que la UX involucra aspectos psicologicos, sociologicos, demograficos, e interactivos del usuario.
+	- La UX no es solo el uso del producto y sus caracteristicas en si, sino que abarca otros aspectos como el Packaging, Servicios Post-venta, Reventa del producto, Mantenimiento y Vida util, y muchos otros aspectos que las empresas deben cuidar para mantener la Fidelidad del usuario. [[CX]]
+	-

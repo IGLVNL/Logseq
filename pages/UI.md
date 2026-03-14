@@ -1,0 +1,8 @@
+- User Interface
+	- Es la encargada de presentar visualmente un producto o servicio al usuario.
+		- Es la parte fisica o tangible
+		- Puede involucrar o afectar, a la [[UX]]
+			- Este punto requiero que sea facil de usar
+	- Requiere diseño, maquetado, color, manejo del espacio y tipografia de los elementos graficos con los que interactua el usuario
+		- Todo lo referido a lo estético e interactividad del producto
+	- Se asocia al [[Hemisferio Derecho del cerebro]]

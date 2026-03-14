@@ -1,0 +1,101 @@
+{:blocks (
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "69b350ab-c2c7-43b9-824d-f1ddb5ae0711"}
+:block/parent 
+{:block/uuid #uuid "69b350ab-c2c7-43b9-824d-f1ddb5ae0711"}
+:block/properties 
+{}
+:block/uuid #uuid "69b44635-1d8d-4627-87d4-8096c06d65d7"} 
+{:block/content "[[UX / UIx]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "69b44635-1d8d-4627-87d4-8096c06d65d7"}
+:block/parent 
+{:block/uuid #uuid "69b350ab-c2c7-43b9-824d-f1ddb5ae0711"}
+:block/properties 
+{}
+:block/uuid #uuid "69b446f1-279a-414b-b60c-35baa5f36d0a"} 
+{:block/content "A"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "69b446f1-279a-414b-b60c-35baa5f36d0a"}
+:block/parent 
+{:block/uuid #uuid "69b350ab-c2c7-43b9-824d-f1ddb5ae0711"}
+:block/uuid #uuid "69b49b28-7f13-41bb-86b6-b99167b497c5"} 
+{:block/created-at 1773445490239
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "Diseño y experiencia de usuario"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 638.2321736491937]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "60414740-1f33-11f1-826f-75d1342b947d"
+:noFill false
+:point [328 -208]
+:parentId "69b350ab-c2c7-43b9-824d-f1ddb5ae0711"
+:collapsedHeight 0
+:nonce 1773444094534}}
+:block/updated-at 1773445490239} 
+{:block/created-at 1773444278450
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "Conceptos iniciales"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 328.11585679176517]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6914f3d0-1f33-11f1-826f-75d1342b947d"
+:noFill false
+:point [-112 -208]
+:parentId "69b350ab-c2c7-43b9-824d-f1ddb5ae0711"
+:collapsedHeight 0
+:nonce 1773444109355}}
+:block/updated-at 1773444278450})
+:pages (
+{:block/uuid #uuid "69b350ab-c2c7-43b9-824d-f1ddb5ae0711"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "69b350ab-c2c7-43b9-824d-f1ddb5ae0711"
+:name "ux/ui"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("60414740-1f33-11f1-826f-75d1342b947d" "6914f3d0-1f33-11f1-826f-75d1342b947d")}}
+:block/journal? false
+:block/namespace 
+{:db/id 407}
+:block/updated-at 1773445490238
+:block/created-at 1773359275215
+:block/format :markdown
+:block/type "whiteboard"
+:block/name "ux/ui"
+:block/original-name "ux/ui"})}

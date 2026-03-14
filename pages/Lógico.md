@@ -1,0 +1,1 @@
+- Hace referencia al correcto orden y sentido de las cosas. En caso de UX, también refiere al flujo de trabajo.

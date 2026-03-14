@@ -1,0 +1,1 @@
+- El root Documents es la dirección de la carpeta principal en donde se van a alojar los archivos del proyecto
