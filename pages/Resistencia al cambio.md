@@ -1,0 +1,1 @@
+- Utilizar la resistencia al cambio de los usuarios, es una herramienta que permite definir cual es el publico objetivo del producto o servicio, ya que las personas suelen preferir aquellas cosas que conocen y que les funciona

@@ -1,0 +1,2 @@
+- Son todos aquellas caracteristicas del usuario que condicionan sus elecciones, preferencias o gustos
+	- Uno de los fenómenos psicológicos que puede condicionar esas preferencias, y por ende, la correcta experiencia del usuario, es la [[Resistencia al cambio]]
