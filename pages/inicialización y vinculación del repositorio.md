@@ -1,0 +1,5 @@
+- El primer paso es crear un [[Repositorio local]] en donde hacer [[Commit]]. Luego, hay que verificar si existe un [[Repositorio remoto]] asociado a esa carpeta.  Si no aparece nada en la terminal, hay que crear el repositorio remoto en [[GITHUB]] o similar. Luego se hace [[Git Add]] . Después, se hace un primer [[Commit]], seguido de [[Agregar repositorio remoto]]. Por ultimo, se hace un [[Push]].
+	- [[Verificación de repositorio remoto]]
+	- [[Crear repositorio remoto en GITHUB]]
+	- [[Crear repositorio local]]
+	- [[Git Add]]

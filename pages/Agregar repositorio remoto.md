@@ -1,0 +1,2 @@
+- git remote add origin https://github.com/<usuario>/<repositorio>.git
+	- lo que hace este paso es agregar o vincular el repositorio local al remoto

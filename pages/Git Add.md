@@ -1,0 +1,1 @@
+- Agrega archivos al área de preparación (staging area).

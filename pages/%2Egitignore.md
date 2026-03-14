@@ -1,0 +1,3 @@
+- Esta configuración, es la que permite seleccionar que archivos del repositorio local, se van a ignorar al momento de hacer [[Push]].
+- La idea es crear un documento de texto dentro de la carpeta del repositorio local, y renombrarlo a ".gitignore" borrando incluso la extensión .txt, para luego abrirlo con algun editor de te texto, y especificar que archivos y carpetas.
+	- Ej: -> carpeta/carpeta/ archivo.extension

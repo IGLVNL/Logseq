@@ -1,0 +1,4 @@
+- El siguiente comando permite asignar cual va a ser la rama principal del repositorio, y en donde se va a trabajar por defecto.
+	- git branch -M main
+		- Puede ser main o master, dependiendo de la configuración automática de [[GITHUB]] durante la creación del repositorio.
+		- -M → renombra la rama de forma forzada.

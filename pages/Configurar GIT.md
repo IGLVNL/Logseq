@@ -1,0 +1,9 @@
+- Para configurar [[GIT]] primero hay que abrir la [[Terminal de Windows]] en la carpeta del graph de Logseq, en donde hay que realizar una [[inicialización y vinculación del repositorio]]. En caso de enviar algún error en el [[Push]], configurar la [[Rama principal]]. Una vez vinculada la carpeta, se configura el [[.gitignore]] y se vuelve a hacer [[Push]].
+	- El [[.gitignore]] debe excluir las siguientes carpetas para evitar errores de sincronización:
+		- logseq/bak/
+		- logseq/version-files/
+		- logseq/graphs-txid.edn
+		- node_modules/
+		- .DS_Store
+		- Thumbs.db
+		- *.log

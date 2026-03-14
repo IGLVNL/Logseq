@@ -1,0 +1,1 @@
+- En [[GITHUB]] en pestaña Home, darle a New, en Repository name poner el nombre del repositorio, revisar si hacerlo Publico o Privado y darle a Create repository.
