@@ -1,0 +1,7 @@
+logseq/bak/
+logseq/version-files/
+logseq/graphs-txid.edn
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
