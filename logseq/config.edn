@@ -424,4 +424,5 @@
  :builtin-pages? false
  :excluded-pages? false}
  :journal/page-title-format "E, dd.MM.yyyy"
- :editor/preferred-pasting-file? true}
+ :editor/preferred-pasting-file? true
+ :ui/show-brackets? false}
