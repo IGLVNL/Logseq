@@ -1,0 +1,2 @@
+- Es la disciplina encargada de facilitar la interacción del usuario con el producto, definiendo la estructura de las interfaces.
+- Existe un costo en la interacción del usuario con el producto a nivel físico y mental, asociado a la facilidad y rapidez de uso experimenta el usuario.

@@ -1,0 +1,12 @@
+- 1- **Individuos  e  interacciones**  sobre  procesos  y  herramientas.
+	- Este valor expresa que las personas y la comunicación entre ellas son más importantes que seguir procesos rígidos o depender demasiado de herramientas.
+		- Es mejor que el equipo hable, discuta soluciones y colabore, a limitarse a seguir un procedimiento o una herramienta sin pensar.
+- 2- **Software  funcionando**  sobre  documentación  extensiva.
+	- Este valor expresa que lo más importante es tener software que funcione, no producir mucha documentación.
+		- Es peor 200 páginas de documentación, pero el sistema no funciona, a un prototipo funcional aunque la documentación sea mínima.
+- 3- **Colaboración  con  el  cliente**  sobre  negociación  contractual.
+	- Lo que este valor expresa es que es mejor trabajar junto con el cliente continuamente que limitarse a cumplir estrictamente un contrato inicial.
+		- En lugar de "eso no estaba en el contrato", se busca "veamos cómo podemos resolverlo".
+- 4- **Respuesta  al  cambio**  sobre  seguir  un  plan.
+	- Este valor expresa que en software los requisitos cambian constantemente, por lo que es mejor adaptarse que seguir un plan rígido.
+		- Si el mercado cambia o el cliente quiere otra función, un equipo ágil ajusta el proyecto, no se queda atrapado en el plan original.

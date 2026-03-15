@@ -1,0 +1,25 @@
+- Explican cómo aplicar en la práctica los valores ágiles dentro del desarrollo de software.
+- 1- **Satisfacer  al  cliente  mediante  entregas  tempranas  y  continuas**
+	- La prioridad es entregar software útil lo antes posible y seguir mejorándolo.
+- 2- **Aceptar  cambios  incluso  en  etapas  tardías**
+	- Los cambios son normales y pueden mejorar el producto final.
+- 3- **Entregar  software  funcional  frecuentemente**
+	- El software debe entregarse en periodos cortos (semanas o meses).
+- 4- **Colaboración  diaria  entre  negocio  y  desarrolladores**
+	- Las personas del negocio y el equipo técnico deben trabajar juntos constantemente.
+- 5- **Construir  proyectos  alrededor  de  personas  motivadas**
+	- Hay que confiar en el equipo y darle autonomía y recursos.
+- 6- **La  comunicación  cara  a  cara  es  la  más  efectiva**
+	- Hablar directamente es mejor que depender solo de documentos o correos.
+- 7- **El  software  funcionando  es  la  principal  medida  de  progreso**
+	- El progreso real se mide por lo que funciona, no por lo que se planeó.
+- 8- **Mantener  un  ritmo  de  trabajo  sostenible**
+	- El equipo debe poder trabajar de forma constante sin agotarse.
+- 9- **Excelencia  técnica  y  buen  diseño**
+	- Un buen diseño y buenas prácticas técnicas mejoran la agilidad.
+- 10- **Simplicidad**
+	- Se debe evitar trabajo innecesario y buscar soluciones simples.
+- 11- **Equipos  autoorganizados**
+	- Los mejores resultados surgen cuando el equipo se organiza por sí mismo.
+- 12- **Mejora  continua**
+	- El equipo reflexiona regularmente para mejorar su forma de trabajar.

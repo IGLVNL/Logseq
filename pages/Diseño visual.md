@@ -1,0 +1,2 @@
+- Es la disciplina encargada de seleccionar todos los elementos gráficos encargados de transmitir el mensaje deseado al usuario
+	- Los elementos mas usados por los usuarios, deben estar ubicados en la zona de mas rápido acceso, físicamente hablando.

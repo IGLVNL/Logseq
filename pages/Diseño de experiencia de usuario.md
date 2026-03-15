@@ -3,4 +3,6 @@
 - Parte del diseño de productos y servicios es reinventar e innovar continuamente
 	- La investigacion, el analisis de la informacion, y la mejora continua, son claves para alcanzar los objetivos de la [[UX]] e incluso superar las expectativas del ususario
 	- El correcto equilibrio entre [[UX]] y [[UI]] es lo que genera satisfaccion y fidelidad por parte del usuario, a la marca del producto
-	- El contecto en que la empresa innova, es puede definir el impacto del producto en el cliente
+	- El contexto en que la empresa innova, es puede definir el impacto del producto en el cliente
+- El diseño de UX es [[multidisciplinar]] y es un proceso que busca brindar experiencias significativas y relevantes para los usuarios
+- El diseño UX tiene una serie de etapas asociadas a las [[Metodologías UX]] para el diseño.

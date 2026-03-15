@@ -422,7 +422,7 @@
  :graph/settings {:journal? false
  :orphan-pages? true
  :builtin-pages? false
- :excluded-pages? false}
+ :excluded-pages? true}
  :journal/page-title-format "E, dd.MM.yyyy"
  :editor/preferred-pasting-file? true
  :ui/show-brackets? false}

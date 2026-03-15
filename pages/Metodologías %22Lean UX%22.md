@@ -1,0 +1,3 @@
+- Es una metodología que intenta traer aquellas herramientas o puntos útiles en las metodologías agiles enfocadas al desarrollo de software, al desarrollo UX.
+- ![image.png](../assets/image_1773604557787_0.png)
+-

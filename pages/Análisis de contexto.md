@@ -1,0 +1,10 @@
+- El contexto es todo aquello que se relaciona con algún Hecho, Evento o Elemento.
+- Este puede ser:
+	- Politico
+	- Religioso
+	- Emocional / psicológico
+	- Cultural
+	- Social
+	- Físico
+	- Etc.
+- El contexto define que [[UI]] es la mas apropiada para el usuario, en post de favorecer su [[UX]]. Dicho en otras palabras, el contexto define el uso que se le va a dar a un producto o servicio.

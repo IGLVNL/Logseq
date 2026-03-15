@@ -1,0 +1,13 @@
+- Son las formas de hacer las cosas. Las etapas Generales de las metodologías son las siguientes:
+	- 1- Estrategia
+		- Es la etapa que define los Objetivos de la empresa, la Marca, la lógica del Negocio, la Misión y Visión, el Cliente objetivo, el Marketing, etc.
+	- 2- Investigación y análisis
+		- Se usan diferentes [[Metodologías de investigación]].
+	- 3- [[Diseño de interfaz de usuario]]
+	- 4- Ingeniería y desarrollo
+- Algunas metodologías son:
+	- [[Metodología "Design thinking"]]
+	- [[Metodología "User Centered Design"]]
+	- [[Metodologías "Lean UX"]]
+- Las metodologias no suelen ser rigidas, por lo que se pueden mezclar entre si
+- Por otro lado, suelen ser metodologías iterativas, basadas en el feedback del proceso.

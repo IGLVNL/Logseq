@@ -1,0 +1,5 @@
+- Siempre se va desde lo concreto a lo abstracto:
+	- Esto significa que primero se realiza el [[Diseño visual]]
+	- Luego se realiza el [[Diseño de interfaz de usuario]]
+	- En este punto se realiza el [[Diseño de interacción]]
+	- Y por ultimo, se realiza el  [[Diseño de experiencia de usuario]]

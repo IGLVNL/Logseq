@@ -1,0 +1,17 @@
+- Esto significa que en el proceso de diseño, se debe incurrir a puntos de vista de diversas especialidades, tales como:
+	- sociologia
+	- diseño industrial
+	- psicologia
+	- antropologia
+	- usabilidad
+	- accesibilidad
+	- arquitectura de la informacion
+	- análisis del negocio
+	- gestión de proyectos
+	- gestión de contenidos
+	- diseño visual
+	- diseño de interfaz
+	- diseño de interacción
+	- marketing
+	- diseño de software
+	- desarrollo de producto

@@ -24,7 +24,7 @@
 :block/parent 
 {:block/uuid #uuid "69b350ab-c2c7-43b9-824d-f1ddb5ae0711"}
 :block/uuid #uuid "69b49b28-7f13-41bb-86b6-b99167b497c5"} 
-{:block/created-at 1773445490239
+{:block/created-at 1773586089472
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -34,13 +34,13 @@
 :borderRadius 8
 :index 0
 :scale [1 1]
-:pageId "Diseño y experiencia de usuario"
+:pageId "Diseño de experiencia de usuario"
 :scaleLevel "md"
 :fill ""
 :compact false
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 638.2321736491937]
+:size [400 967.6117553710938]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -49,9 +49,9 @@
 :point [328 -208]
 :parentId "69b350ab-c2c7-43b9-824d-f1ddb5ae0711"
 :collapsedHeight 0
-:nonce 1773444094534}}
-:block/updated-at 1773445490239} 
-{:block/created-at 1773444278450
+:nonce 1773444094537}}
+:block/updated-at 1773586089472} 
+{:block/created-at 1773448477442
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -67,7 +67,7 @@
 :compact false
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 328.11585679176517]
+:size [400 342.098510615716]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -76,8 +76,62 @@
 :point [-112 -208]
 :parentId "69b350ab-c2c7-43b9-824d-f1ddb5ae0711"
 :collapsedHeight 0
-:nonce 1773444109355}}
-:block/updated-at 1773444278450})
+:nonce 1773444109358}}
+:block/updated-at 1773448477442} 
+{:block/created-at 1773582757563
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 2
+:scale [1 1]
+:pageId "Etapas del diseño UX/UI"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 441.5282343986865]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ae0aafd0-2004-11f1-8b89-c30415e1068e"
+:noFill false
+:point [-128 176]
+:parentId "69b350ab-c2c7-43b9-824d-f1ddb5ae0711"
+:collapsedHeight 0
+:nonce 1773533989797}}
+:block/updated-at 1773582757563} 
+{:block/created-at 1773586094326
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 3
+:scale [1 1]
+:pageId "Metodologías UX"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 804.5300903320312]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "3cc3a300-2076-11f1-8b89-c30415e1068e"
+:noFill false
+:point [816 -208]
+:parentId "69b350ab-c2c7-43b9-824d-f1ddb5ae0711"
+:collapsedHeight 0
+:nonce 1773582762346}}
+:block/updated-at 1773586094326})
 :pages (
 {:block/uuid #uuid "69b350ab-c2c7-43b9-824d-f1ddb5ae0711"
 :block/properties 
@@ -89,11 +143,11 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("60414740-1f33-11f1-826f-75d1342b947d" "6914f3d0-1f33-11f1-826f-75d1342b947d")}}
+:shapes-index ("60414740-1f33-11f1-826f-75d1342b947d" "6914f3d0-1f33-11f1-826f-75d1342b947d" "ae0aafd0-2004-11f1-8b89-c30415e1068e" "3cc3a300-2076-11f1-8b89-c30415e1068e")}}
 :block/journal? false
 :block/namespace 
 {:db/id 407}
-:block/updated-at 1773445490238
+:block/updated-at 1773586094326
 :block/created-at 1773359275215
 :block/format :markdown
 :block/type "whiteboard"

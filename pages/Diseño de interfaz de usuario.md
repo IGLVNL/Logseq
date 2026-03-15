@@ -1,0 +1,2 @@
+- Se centra en el estilo visual, transmitiendo valores de la marca, y despertando emociones en el usuario.
+	- La interfaz debe ser amigable con el usuario
