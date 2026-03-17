@@ -1,0 +1,6 @@
+- Existen diferentes tipos de investigación a realizar, con sus respectivas finalidades y sinergias entre si, cuya selección depende de diversos factores, como por ejemplo tamaño del facus group, contexto, etc.
+	- [[Investigación cualitativa]] e [[Investigación cuantitativa]]
+	- [[Investigación conductual]] e [[Investigación  actitudinal]]
+	- [[Investigación generativa]] e [[Investigación evaluativa]]
+	- [[Investigación formativa]] e [[Investigación sumativa]]
+- Para realizar estas investigaciones se necesitan [[Herramientas de medición para la investigación]] que sirven para la recopilación de información.

@@ -24,7 +24,7 @@
 :block/parent 
 {:block/uuid #uuid "69b350ab-c2c7-43b9-824d-f1ddb5ae0711"}
 :block/uuid #uuid "69b49b28-7f13-41bb-86b6-b99167b497c5"} 
-{:block/created-at 1773586089472
+{:block/created-at 1773749501549
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -40,7 +40,7 @@
 :compact false
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 967.6117553710938]
+:size [400 1647.7897141382998]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -49,8 +49,8 @@
 :point [328 -208]
 :parentId "69b350ab-c2c7-43b9-824d-f1ddb5ae0711"
 :collapsedHeight 0
-:nonce 1773444094537}}
-:block/updated-at 1773586089472} 
+:nonce 1773444094538}}
+:block/updated-at 1773749501549} 
 {:block/created-at 1773448477442
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -88,7 +88,7 @@
 :borderRadius 8
 :index 2
 :scale [1 1]
-:pageId "Etapas del diseño UX/UI"
+:pageId "Etapas del diseño UX-UI"
 :scaleLevel "md"
 :fill ""
 :compact false
@@ -105,7 +105,7 @@
 :collapsedHeight 0
 :nonce 1773533989797}}
 :block/updated-at 1773582757563} 
-{:block/created-at 1773586094326
+{:block/created-at 1773749501557
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -121,7 +121,7 @@
 :compact false
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 804.5300903320312]
+:size [400 933.9553087287912]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -130,8 +130,8 @@
 :point [816 -208]
 :parentId "69b350ab-c2c7-43b9-824d-f1ddb5ae0711"
 :collapsedHeight 0
-:nonce 1773582762346}}
-:block/updated-at 1773586094326})
+:nonce 1773582762348}}
+:block/updated-at 1773749501557})
 :pages (
 {:block/uuid #uuid "69b350ab-c2c7-43b9-824d-f1ddb5ae0711"
 :block/properties 
@@ -147,7 +147,7 @@
 :block/journal? false
 :block/namespace 
 {:db/id 407}
-:block/updated-at 1773586094326
+:block/updated-at 1773749501557
 :block/created-at 1773359275215
 :block/format :markdown
 :block/type "whiteboard"

@@ -1,0 +1,4 @@
+- Se usa **durante el desarrollo del producto** para ir mejorándolo.
+	- Sirve para **detectar problemas temprano**.
+- Ejemplo
+	- Mientras diseñas la web pruebas el prototipo con usuarios descubres que no entienden cómo crear una cuenta. Entonces mejoras el diseño antes del lanzamiento.

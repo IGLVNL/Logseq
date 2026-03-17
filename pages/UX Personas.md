@@ -1,0 +1,30 @@
+- Una **Persona** es un perfil que representa a un grupo de usuarios con características, necesidades y comportamientos similares.
+	- No es una persona real, pero **se construye a partir de datos obtenidos en el User Research** (entrevistas, encuestas, observación, etc.).
+	- Su objetivo es ayudar al equipo a responder preguntas como:
+		- ¿Quién usará el producto?
+		- ¿Qué necesita?
+		- ¿Qué problemas tiene?
+		- ¿Qué objetivos quiere lograr?
+	- Qué información contiene una Persona
+		- **Datos generales**
+			- nombre ficticio
+			- edad
+			- ocupación
+			- contexto de vida
+		- **Objetivos**
+			- qué quiere lograr con el producto
+		- **Motivaciones**
+			- por qué usaría el producto
+		- **Frustraciones o problemas**
+			- dificultades actuales
+		- **Comportamientos**
+			- cómo usa la tecnología
+			- hábitos digitales
+	- Las personas ayudan a:
+		- **Tomar decisiones de diseño**
+			- En lugar de pensar ***a mí me parece mejor esto*** se piensa ***¿esto le serviría a Ana?***
+		- **Mantener el foco en el usuario**
+			- Evitan que el equipo diseñe solo desde su propia perspectiva.
+		- **Comunicar al equipo quién es el usuario**
+			- Todos los miembros del proyecto entienden **para quién se diseña el producto**.
+	- Normalmente se crean entre 3 a 5 personas, que representan a un tipo importante de usuario.

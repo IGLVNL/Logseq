@@ -1,0 +1,43 @@
+- Es el proceso que ayuda a **visualizar, organizar, sintetizar y comunicar** mediante el uso de herramientas para diversos propósitos, en base a la información recopilada durante la investigación.
+	- **Empathy Map**
+	  Busca comprender la **mentalidad del usuario**.
+		- Se divide normalmente en cuatro cuadrantes, **Dice, Piensa, Hace y Siente**
+		- Ayuda a entender motivaciones, frustraciones y necesidades del usuario.
+			- Ejemplo
+				- Usuario de una plataforma educativa
+					- Dice ***quiero aprender rápido***
+					- Piensa ***estos cursos parecen largos***
+					- Siente ***frustración***
+					- Hace ***abandona la página***
+		- Permite diseñar soluciones centradas en **motivaciones reales**.
+		- Utiliza [[UX Personas]] para segmentar las necesidades.
+		- Particularmente, este mapa se puede usar antes de la investigación, durante, y después.
+			- ***Antes***: el equipo puede crear un **Empathy Map preliminar basado en suposiciones**. En esta etapa el mapa **no es definitivo**, solo plantea supuestos.
+				- **Objetivo**: formular hipótesis sobre el usuario, identificar qué información falta, preparar preguntas para entrevistas.
+			- ***Durante***: Mientras realizas entrevistas o pruebas de usuario, el Empathy Map puede usarse para **organizar lo que los usuarios dicen y hacen**. Esto permite **estructurar la información del research**.
+				- **Objetivo**: registrar observaciones, separar hechos de interpretaciones, detectar patrones.
+			- ***Después***: Después del research, el Empathy Map se utiliza para **sintetizar los resultados**.
+				- Esto puede llevar a decisiones de diseño como, micro-lecciones, progreso visual, ejercicios rápidos.
+				- **Objetivo**: identificar patrones de comportamiento, entender motivaciones, construir personas, generar insights de diseño.
+	- **Journey Map**
+		- Busca visualizar **los pasos que sigue el usuario al usar un producto**.
+		- Muestra etapas del proceso, acciones del usuario, emociones, puntos de fricción, Ilustra el recorrido del usuario hasta lograr un objetivo.
+			- Se lo puede ver como un **historial** de lo que experimenta el usuario
+		- Partes de un Journey map
+			- ***Etapas***: fases que atraviesa la persona
+			- ***Acciones***: Acciones que realiza la persona en cada Etapa
+			- ***Sentimientos***: Son las emociones que siente el usuario luego de realizar una acción
+			- ***Puntos de dolor***: Son las dificultades que percibe la persona en alguna etapa o durante una acción
+			- ***Oportunidades***: Son las posibles mejoras que se pueden hacer al proceso, ya sea en alguna etapa en concreto, o hacia alguna acción en particular.
+		- Ejemplo
+			- Proceso para comprar un curso
+				- Buscar curso -> Leer descripción -> Agregar al carrito -> Pagar -> Acceder al curso
+				- El mapa puede mostrar:
+					- frustración en el pago
+					- confusión en la navegación
+		- Permite detectar **puntos problemáticos del flujo**.
+		- Se suele hacer junto con [[Storyboards]].
+	- **Affinity  Map (Affinity  Diagram)**
+		- Sirve para organizar y sintetizar datos de investigación.
+			- Agrupa observaciones, frases de usuarios y hallazgos en **temas o patrones comunes**
+			- Permite encontrar patrones en entrevistas, identificar problemas principales, priorizar oportunidades

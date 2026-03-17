@@ -1,0 +1,7 @@
+- Se usa para **evaluar si un diseño o producto funciona bien**.
+- Métodos
+	- pruebas de usabilidad
+	- test de prototipos
+	- [[A/B testing]]
+- Ejemplo
+	- Comparas dos versiones de un botón, ***Comprar ahora*** e ***Inscribirme***, y analizas cuál tiene más clics.

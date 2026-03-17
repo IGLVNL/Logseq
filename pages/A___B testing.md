@@ -1,0 +1,1 @@
+- Es una prueba que busca analizar 2 modelos de un producto, con 2 grupos de interés, y se evalúan los resultados, seleccionando la versión que tenga mejores resultados.

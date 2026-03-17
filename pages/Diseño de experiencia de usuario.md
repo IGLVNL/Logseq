@@ -4,5 +4,23 @@
 	- La investigacion, el analisis de la informacion, y la mejora continua, son claves para alcanzar los objetivos de la [[UX]] e incluso superar las expectativas del ususario
 	- El correcto equilibrio entre [[UX]] y [[UI]] es lo que genera satisfaccion y fidelidad por parte del usuario, a la marca del producto
 	- El contexto en que la empresa innova, es puede definir el impacto del producto en el cliente
-- El diseño de UX es [[multidisciplinar]] y es un proceso que busca brindar experiencias significativas y relevantes para los usuarios
+- El diseño de UX es multidisciplinar y es un proceso que busca brindar experiencias significativas y relevantes para los usuarios
+	- Esto significa que en el proceso de diseño, se debe incurrir a puntos de vista de diversas especialidades, tales como:
+		- sociología
+		- diseño industrial
+		- psicología
+		- antropología
+		- usabilidad
+		- accesibilidad
+		- arquitectura de la información
+		- análisis del negocio
+		- gestión de proyectos
+		- gestión de contenidos
+		- diseño visual
+		- diseño de interfaz
+		- diseño de interacción
+		- marketing
+		- diseño de software
+		- desarrollo de producto
 - El diseño UX tiene una serie de etapas asociadas a las [[Metodologías UX]] para el diseño.
+- [[Diseño universal]]

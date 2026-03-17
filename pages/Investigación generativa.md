@@ -1,0 +1,9 @@
+- Se usa **al inicio de un proyecto** para descubrir oportunidades o ideas.
+	- Busca entender problemas y necesidades antes de diseñar.
+- Métodos
+	- entrevistas exploratorias
+	- estudios de usuarios
+	- mapas de experiencia
+	- tormenta de ideas
+- Ejemplo
+	- Antes de crear una plataforma educativa descubres que muchos usuarios quieren cursos cortos en lugar de cursos largos. Esto **genera ideas de producto**.

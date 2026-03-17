@@ -1,0 +1,10 @@
+- Son historias cortas de las UX Personas, que representan como ellos intentan alcanzar sus **objetivos** en cierto contexto, de forma concreta y concisa, en un momento de su Journey Map.
+- Es una **secuencia de escenas** que muestra el contexto del usuario, el problema que enfrenta, cómo usa el producto y qué resultado obtiene.
+- Es una forma **visual y narrativa** de describir una experiencia de usuario.
+- Los storyboards ayudan a:
+	- **Visualizar situaciones reales de uso**
+		- Permiten entender **cómo el producto encaja en la vida del usuario**.
+	- **Comunicar ideas al equipo**
+		- Son fáciles de entender para diseñadores, desarrolladores, clientes, stakeholders.
+	- **Detectar problemas de experiencia**
+		- Al representar la historia completa se pueden identificar frustraciones, obstáculos y oportunidades de mejora.

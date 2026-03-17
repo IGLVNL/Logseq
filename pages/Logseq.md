@@ -1,1 +1,2 @@
+- [[Atajos Logseq]]
 - [[Configurar GIT]]

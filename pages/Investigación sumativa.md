@@ -1,0 +1,7 @@
+- Se usa **después de que el producto ya está terminado o lanzado**.
+	- Evalúa **resultados finales**.
+- Ejemplo
+	- Después de lanzar la plataforma analizas:
+		- tasa de conversión
+		- satisfacción de usuarios
+		- tasa de abandono

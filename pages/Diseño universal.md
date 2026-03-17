@@ -1,0 +1,3 @@
+- Es un diseño que permite crear productos utilizables por la mayor cantidad de personas.
+- Debe ser **Inclusivo**, **Accesible** y **Usable**.
+- Se basa en [[7 principios del diseño universal]]

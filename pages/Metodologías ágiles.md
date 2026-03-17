@@ -3,6 +3,6 @@
 - El esquema del equipo de trabajo, varia según el proyecto (centralizado, matriz, células, etc.).
 - [[Los 4 valores del manifestó ágil]]
 - [[Los 12 principios del manifestó ágil]]
-- Dos de las metodologías mas utilizadas en la industria de productos y servicios, son [[Scrum]] y [[Kanban]], los cuales son considerados [[Frameworks]] para las metodologías agiles.
+- Dos de las metodologías mas utilizadas en la industria de productos y servicios, son [[Scrum]] y [[Kanban]], los cuales son considerados [[Frameworks UX]] para las metodologías agiles.
 	- El flujo de trabajo de estas metodologías suele ser el siguiente:
 		- Requerimientos -> Diseño -> Implementación -> Verificación -> Mantenimiento

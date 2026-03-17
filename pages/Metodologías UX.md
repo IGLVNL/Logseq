@@ -2,7 +2,8 @@
 	- 1- Estrategia
 		- Es la etapa que define los Objetivos de la empresa, la Marca, la lógica del Negocio, la Misión y Visión, el Cliente objetivo, el Marketing, etc.
 	- 2- Investigación y análisis
-		- Se usan diferentes [[Metodologías de investigación]].
+		- Se usan diferentes metodologías de investigación [[User research]].
+		- Luego de la recolección de la información durante el User research se procede al [[UX Mapping]].
 	- 3- [[Diseño de interfaz de usuario]]
 	- 4- Ingeniería y desarrollo
 - Algunas metodologías son:

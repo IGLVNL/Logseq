@@ -1,0 +1,7 @@
+- Analiza **lo que las personas piensan o sienten** sobre un producto.
+- Métodos
+	- encuestas
+	- entrevistas
+	- cuestionarios de satisfacción
+- Ejemplo
+	- Preguntas en una encuesta ***¿Qué tan fácil fue comprar el curso?*** El 70% dice que fue difícil. Esto mide **percepción**, no comportamiento.

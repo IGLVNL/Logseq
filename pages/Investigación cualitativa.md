@@ -1,0 +1,8 @@
+- Busca entender el por qué y el cómo del comportamiento del usuario. Se enfoca en **opiniones, experiencias y motivaciones**.
+- Métodos  comunes:
+	- entrevistas a usuarios
+	- pruebas de usabilidad
+	- observación
+	- estudios de campo
+- Ejemplo:
+	- Estás creando una plataforma de cursos. Entrevistas a usuarios y descubres que abandonan la compra porque el proceso de pago les parece confuso. No te da números exactos, pero te explica la razón del problema.

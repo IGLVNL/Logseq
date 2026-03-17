@@ -1,5 +1,7 @@
-- El usuario siempre busca resolver sus necesidades de la forma mas directa posible y económica posible [[Cerebro reptiliano]]
+- El usuario siempre busca resolver sus necesidades de la forma mas directa posible y económica posible.
+	- Esta asociado al **Cerebro Reptiliano**
 - La UX resuelve la necesidad del usuario de la manera menos entorpecida posible [[UX]]
 - La UI es la interfaz con la que interactúa el usuario [[UI]]
 -
 	-
+-

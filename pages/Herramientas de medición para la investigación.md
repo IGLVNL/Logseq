@@ -1,0 +1,9 @@
+- Pueden ser
+	- Analíticas
+		- Google Analytics
+		- Semrush
+		- Zoho
+	- Mapas de calor
+		- Clarify
+		- MouseFlow
+		- Crazy Egg

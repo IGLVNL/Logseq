@@ -1,0 +1,2 @@
+- Es la disciplina encargada de utilizar [[Metodologías de investigación]] para recabar información sobre los usuarios, de forma de poder comprender sus necesidades y motivaciones, logrando empatizar con ellos.
+- Permite crear productos innovadores y fáciles de usar, así como asegurar el retorno de inversión del negocio.

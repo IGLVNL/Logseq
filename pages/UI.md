@@ -5,4 +5,4 @@
 			- Este punto requiero que sea facil de usar
 	- Requiere diseño, maquetado, color, manejo del espacio y tipografia de los elementos graficos con los que interactua el usuario
 		- Todo lo referido a lo estético e interactividad del producto
-- Se asocia al [[Hemisferio Derecho del cerebro]]
+- Se asocia al hemisferio derecho del cerebro

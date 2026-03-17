@@ -1,1 +1,1 @@
-- El análisis de los usuarios implica entre otras cosas, el entendimiento del [[contexto]] en el cual el usuario se encuentra o se encontró en el pasado, ya que eso condiciona sus experiencias y preferencias
+- El análisis de los usuarios implica entre otras cosas, el entendimiento del contexto en el cual el usuario se encuentra o se encontró en el pasado, ya que eso condiciona sus experiencias y preferencias
