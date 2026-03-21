@@ -1,0 +1,24 @@
+- Es la característica que describe el propósito y función de un producto, que haga mas fácil la experiencia.
+- Es la comprensión de todas las dimensiones y complejidad de un producto, y volverlo fácil para la mayoría de los usuarios.
+- Busca facilitar la interacción entre el usuario y el producto, eliminando complejidad innecesaria. Significa que todo lo que exista en el producto, tenga un propósito claro.
+	- También reduce la carga cognitiva.
+	- Mejora la usabilidad y accesibilidad.
+	- Disminuye errores y frustraciones.
+	- Mejora la eficiencia.
+	- Genera confianza y fidelidad.
+- [[10 leyes de la simplicidad]]
+- Consejos para el diseño simple en UX
+	- ***Diseño minimalista***
+		- Solo los elementos necesarios. Sin adornos
+	- ***Lenguaje claro y directo***
+		- Evitar usar tecnicismos.
+	- ***Jerarquía visual clara***
+		- Organizar la información de forma que guie la acción del usuario.
+	- ***Una acción principal por pantalla***
+		- Evitar confusiones con diversas acciones.
+	- ***Consistencia***
+		- Usar los mismos patrones de interacción en toda la interfaz.
+	- ***Prevención de errores***
+		- Formularios claros, validaciones en tiempo real, mensajes útiles, etc.
+	- ***Feedback inmediato***
+		- Informar al usuario que una acción fue realizada.

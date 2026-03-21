@@ -1,0 +1,34 @@
+- Son un conjunto de reglas generales que se utilizan para evaluar y mejorar la **usabilidad** de una interfaz.
+- Buscan identificar problemas comunes de usabilidad y ofrecen soluciones para crear interfaces mas intuitivas, eficientes y satisfactorias.
+- Son la base del diseño UI
+- Los 10 principios son:
+	- ***1- Visibilidad del estado del sistema***
+		- El usuario debe saber en todo momento el estado del sistema o de la acción que esta realizando. Ej. Barras de carga, cambios en el progreso, etc.
+		- Esto reduce la incertidumbre y frustración del usuario al interactuar con el sistema.
+	- ***2- Concordancia entre el sistema y el mundo real***
+		- El sistema debe manejar un lenguaje familiar para el usuario, y la información debe presentarse de forma natural.. Ej. íconos reconocibles, lenguaje claro, etc.
+		- Facilita la interacción y el aprendizaje sobre el sistema.
+	- ***3- Control y libertad del usuario***
+		- El usuario necesita una salida clara y posible de sus errores. Ej. botón de deshacer, pregunta de confirmación antes de realizar una acción, etc.
+		- Aumenta la confianza del usuario y reduce la sensación de estar atrapado.
+	- ***4- Consistencia y estándares***
+		- No debería de haber ambigüedad en terminologías o elementos, ni tampoco confundir el significado de una elemento del sistema con el de otro. Ej. mantener un diseño coherente con la industria.
+		- Facilita el aprendizaje del usuario y su eficiencia.
+	- ***5- Prevención de errores***
+		- Es mejor evitar que ocurran errores a enviar un mensaje de error. Ej. validaciones de formularios en tiempo real.
+		- Evita frustraciones
+	- ***6-  Reconocimiento en lugar de recuerdo***
+		- Es mejor que el usuario reconozca la funcionalidad de los elementos, en vez de tener que esforzarse para recordar para que sirve. Ej. El icono de Home en las apps, automáticamente es asociado con regresar al menú principal.
+		- Facilita el uso del producto.
+	- ***7- Flexibilidad y eficiencia de uso***
+		- La interfaz debe ser flexible, de modo que un usuario nuevo como uno experto, puedan usarla de forma eficiente. Ej. Atajos de teclado para expertos, filtros avanzados, opciones de configuración avanzados.
+		- Satisface las necesidades de una amplia gama de usuarios.
+	- ***8- Diseño estético y minimalista***
+		- Cada elemento visual debe contribuir a su propósito. Los elementos adicionales que no contribuyen, distraen y reducen la visibilidad de aquellos que son importantes. Ej. diseño limpio y ordenado.
+		- Mejora la legibilidad y comprensión de la información.
+	- ***9- Ayuda a los usuarios a reconocer, diagnosticar y recuperarse de sus errores.***
+		- Los mensajes de error deben ser claros y precisos, y deben sugerir una solución. Ej. enlaces a documentación.
+		- Ayuda a los usuarios a resolver sus propios problemas.
+	- ***10- Ayuda y documentación***
+		- Siempre es conveniente proporcionar ayuda y documentación al usuario. Ej. FAQ, tutoriales, etc.
+		- Proporciona ayuda adicional al usuario de ser necesario.

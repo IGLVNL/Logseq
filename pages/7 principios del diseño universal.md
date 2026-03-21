@@ -8,9 +8,28 @@
 	- ***Ejemplo***
 		- Un cajero automático que puede usarse con pantalla táctil o con botones.
 		- Un software que permite usar mouse o teclado.
-- # Uso  simple  e  intuitivo
-  
-  El producto debe ser **fácil de entender**, independientemente de la experiencia o conocimientos del usuario.
-- ### Ejemplo
-- Interfaces claras en aplicaciones móviles.
-- Señalización simple en aeropuertos.
+- ### **3-Uso simple e intuitivo**
+	- El producto debe ser **fácil de entender**, independientemente de la experiencia o conocimientos del usuario.
+	- ***Ejemplo***
+		- Interfaces claras en aplicaciones móviles.
+		- Señalización simple en aeropuertos.
+- ### **4- Información perceptible**
+	- La información importante debe comunicarse **de diferentes maneras para que todos puedan percibirla**.
+	- ***Ejemplo***
+		- Señales visuales y auditivas en un ascensor.
+		- Uso de colores y texto para indicar errores en una interfaz.
+- ### **5- Tolerancia al error**
+	- El diseño debe **minimizar las consecuencias de errores accidentales**.
+	- ***Ejemplo***
+		- Botón “deshacer” en programas de edición.
+		- Confirmación antes de eliminar un archivo.
+- ### **6- Bajo esfuerzo físico**
+	- El producto debe poder usarse **sin esfuerzo físico excesivo**.
+	- ***Ejemplo***
+		- Grifos con sensor.
+		- Puertas ligeras o automáticas.
+- ### **7-Tamaño y espacio adecuado para el uso**
+	- Debe haber **espacio suficiente para que cualquier persona pueda usar el producto**, incluyendo personas con sillas de ruedas u otras ayudas.
+	- ***Ejemplo***
+		- Pasillos amplios en edificios.
+		- Botones grandes en interfaces digitales.

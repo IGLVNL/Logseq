@@ -23,4 +23,6 @@
 		- diseño de software
 		- desarrollo de producto
 - El diseño UX tiene una serie de etapas asociadas a las [[Metodologías UX]] para el diseño.
-- [[Diseño universal]]
+- Existe el [[Diseño universal]] como modelo a seguir.
+- Las [[10 Leyes del diseño UX]] permiten un diseño que intenta mejorar el diseño universal.
+- [[10 Principios heurísticos]]

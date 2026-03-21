@@ -1,0 +1,20 @@
+- ***1- Ley de Fitts***
+	- Cuanto mas **lejos** se encuentre el objetivo, y mas **pequeño** sea este, mas tiempo se tardara en alcanzarlo.
+- ***2- Ley de Hick***
+	- El tiempo necesario para tomar una decisión aumenta con el numero de opciones, y su complejidad.
+- ***3- Ley de Jakob***
+	- El producto debe ser similar en características (funcionamiento y layout), a aquellos que son del mismo tipo. Esto es debido a que el usuario ya conoce los otros, y se siente familiarizado.
+- ***4- Ley de Prägnanz***
+	- El cerebro tiende a ordenar los objetos de forma simplificada. Esto hace necesario que se deba buscar la simplicidad visual para reducir la fatiga.
+- ***5- Ley de Miller***
+	- El ser humano solo puede contener 7 +/-2 elementos a la vez en su memoria. Esto implica que la cantidad de secciones u opciones se debe simplificar o segmentar de forma eficiente. (*Chuncks*)
+- ***6- Ley de Von Restorff***
+	- El elemento que mas destaca de un grupo es el mas fácil de recordar.
+- ***7- Ley de Parkinson***
+	- Una tarea tiende a tardar la cantidad de tiempo que se le asigne para su finalización, por lo que el diseño del flujo de trabajo es clave para evitar demoras en la finalización de la tarea, y así evitar la frustración del usuario.
+- ***8- Ley de Zajonc***
+	- La exposición continua a ciertos patrones, genera un respuesta afectiva a ellos, por mas que estos no sean patrones positivos. Uno se acostumbra a usar las cosas de cierta manera, si lo hace continuamente. Esto hace necesario que el diseño sea familiar pero que genere una buena experiencia para el usuario.
+- ***9- Ley de Zeigarnik***
+	- Las personas recuerdan mejor las tareas incompletas que las terminadas, por lo que hay que mostrarle al usuario cuanto le falta para terminar de hacer una tarea y así motivarlos a completarla.
+- ***10- Ley de Tesler***
+	- Todo sistema tiene una complejidad inherente. De forma que el diseñador no debe trasladarle esa complejidad al usuario, mejorando interfases, simplificando pasos, etc.

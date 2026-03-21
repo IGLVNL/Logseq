@@ -1,0 +1,5 @@
+- Es un entorno de ejecución de [[Javascript]]
+- [[Instalación Node js]]
+- [[Comandos Node JS]]
+- El objeto ***window*** que se usa en JS o en React, no existe en Node. Lo que si existe en JS es la variable global común a todos los elementos ***globalThis*** de una aplicación.
+	- En el navegador globalThis apunta a la variable **window**, pero en Node apunta a **global**.

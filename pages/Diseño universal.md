@@ -1,3 +1,4 @@
 - Es un diseño que permite crear productos utilizables por la mayor cantidad de personas.
-- Debe ser **Inclusivo**, **Accesible** y **Usable**.
-- Se basa en [[7 principios del diseño universal]]
+- Se basa en [[7 principios del diseño universal]].
+- Se realiza en [[6 etapas del diseño universal]]
+- Debe basarse en 3 dimensiones [[Accesibilidad UX]], [[Usabilidad UX]] y [[Simplicidad UX]].

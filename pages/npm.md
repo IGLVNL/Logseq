@@ -1,0 +1,3 @@
+- Node Package Manager
+- Es el **gestor de paquetes** oficial de Node.js.
+- Sirve para instalar, actualizar y administrar librerías o dependencias de los proyectos.

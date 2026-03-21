@@ -1,0 +1,32 @@
+- Es el grado de dominio que tiene el usuario sobre el producto.
+- Es un concepto asociado a la facilidad de uso que posee un producto, para un usuario.
+- Es definida por **3 dimensiones**, la eficacia, eficiencia y satisfacción con la que usuario puede lograr sus objetivos.
+	- ***Eficacia***
+		- Es el cumplimiento del objetivo en tiempo y forma.
+	- ***Eficiencia***
+		- Es cumplir con el objetivo con la menor cantidad de esfuerzo y recursos.
+	- ***Satisfacción***
+		- Es la encargada de establecer el **tiempo y forma** que espera el usuario, de forma en que el uso del producto, sea o no eficaz.
+- Otras dimensiones adicionales son la facilidad de aprendizaje, facilidad de memorización y la facilidad de aprender de los errores.
+	- ***Facilidad de aprendizaje***
+		- El producto debe ser fácil de aprender a usarse. Evita frustraciones.
+	- ***Facilidad de memorización***
+		- El usuario de ser lo suficientemente fácil de recordar como usarlo.
+	- ***Facilidad de aprender de los errores***
+		- Tiene que ver con como el usuario detecta el mal uso del producto, y puede corregirlo.
+- Recomendaciones en productos digitales.
+	- ***Navegación***
+		- Cuan fácil es moverse en diferentes secciones paginas y rutas del producto.
+	- ***Familiaridad***
+		- Cuan fácilmente el usuario asocia el uso del producto, con el uso de otros productos similares.
+	- ***Consistencia***
+		- Esta asociado a la familiaridad, ya que busca que los elementos que conforman al producto, mantienen la forma en un producto similar, y en este.
+	- ***Prevención de errores***
+		- Significa que tiene que preverse y dar soluciones a los posibles errores de uso del usuario.
+	- ***Feedback***
+		- Tiene que existir algún método de ayuda al cliente, o incluso una forma en que el cliente pueda aportar a la mejora del producto.
+	- ***Apoyo visual***
+		- Tiene que haber un correcto [[Diseño visual]].
+	- ***Flexibilidad y eficiencia***
+		- Que se cumplan las 3 dimensiones de la usabilidad.
+- [[Pruebas de usabilidad]]

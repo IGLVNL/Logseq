@@ -1,0 +1,3 @@
+- Primero hay que usar [[Chocolatey]] para instalar Node. Este proceso de instalación, incluye la instalación de [[npm]].
+- Luego de esto, hay que instalar [[nvm]] para gestionar las versiones de Node.
+- Luego de eso, se selecciona la versión de Node con **nvm** y se abre el proyecto en [[Visual Studio Code]], donde se usa Node desde la terminal. (También se puede usar la terminal de [[Windows]] )

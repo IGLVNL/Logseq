@@ -1,0 +1,1 @@
+- Es un gestor (instalador) de paquetes de windows

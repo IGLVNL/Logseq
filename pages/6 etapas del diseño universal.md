@@ -1,0 +1,39 @@
+### 1- Realizar una [[User research]]
+	- Antes de diseñar, se debe **comprender quiénes son los usuarios y qué necesitan**.
+	  Se investigan capacidades físicas y cognitivas, contexto de uso, problemas que enfrentan, dispositivos que utilizan, etc.
+	- ***Ejemplo***
+		- En una app móvil se descubre que:
+		- algunos usuarios tienen **baja visión**
+		- otros usan **lectores de pantalla**
+- ### 2- Definir personas inclusivas
+	- Se crean **personas (perfiles ficticios de usuarios)** que representen distintos tipos de usuarios, incluyendo diversidad. Esto ayuda a que el equipo **no diseñe solo para el “usuario promedio”**.
+	- ***Ejemplos***
+		- persona mayor con poca experiencia digital
+		- usuario con discapacidad visual
+		- usuario que usa solo teclado
+- ### 3- Priorizar la accesibilidad
+	- Desde el inicio del diseño se deben considerar **criterios de accesibilidad**, por ejemplo los estándares de Web Content Accessibility Guidelines.
+	- ***Algunas decisiones***
+		- buen contraste de colores
+		- textos legibles
+		- navegación accesible por teclado
+		- compatibilidad con lectores de pantalla.
+- ### 4- Diseñar para la flexibilidad y adaptabilidad
+	- El producto debe permitir **diferentes formas de uso** según las necesidades del usuario. Esto refleja el principio de **flexibilidad del diseño universal**.
+	- ***Ejemplos***
+		- cambiar tamaño de texto
+		- usar mouse, teclado o pantalla táctil
+		- activar subtítulos en videos
+		- modo oscuro o alto contraste.
+- ### 5-Probar con diversos grupos de usuarios
+	- No basta con probar con un solo tipo de usuario. Esto permite detectar problemas que de otro modo pasarían desapercibidos.
+	- ***Se deben incluir***
+		- personas con distintas edades
+		- distintos niveles tecnológicos
+		- personas con discapacidades.
+- ### 6- Iterar y mejorar
+	- El diseño se mejora continuamente con base en:
+		- feedback de usuarios
+		- pruebas de usabilidad
+		- evaluaciones de accesibilidad.
+	- Es un proceso **iterativo**, muy alineado con metodologías ágiles.

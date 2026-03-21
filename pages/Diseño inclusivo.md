@@ -1,0 +1,1 @@
+- Es una serie de métodos que se enfocan en el ***entendimiento*** y la ***facilidad de acceso*** a cualquier persona, en donde se busca aprender de las personas excluidas o con discapacidad.

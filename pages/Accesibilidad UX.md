@@ -1,0 +1,25 @@
+- Es la capacidad que tiene el usuario de usar el producto.
+- Es un concepto que debe englobar a la mayor cantidad de personas posible.
+	- Las interfaces debe poder ser utilizada por el mayor numero de personas.
+	- Debe incluir personas con o sin discapacidad, de forma temporal o no.
+	- Requiere un correcto [[Diseño inclusivo]].
+- Tiene implícita a la [[Usabilidad UX]].
+- **Tipos de problema de accesibilidad**
+	- Movilidad/motriz
+	- Convulsiones (Epilepsia, fotosensibilidad)
+	- Auditivo
+	- Cognitivo/aprendizaje (Dislexia/TDA)
+	- Visual(Daltonismo, ceguera)
+	- Incidental (No se dormí, por lo que no utilizo bien un producto)
+	- Ambiental (Estoy en una situación en la que no puedo usar correctamente el producto)
+- La aplicación de ***soluciones de accesibilidad*** para ciertos grupos de personas, también pueden ser  extensibles hacia otro grupo de personas aun mas grande, que puede no poseer un problema real de accesibilidad.
+	- Un ejemplo de esto es el uso del **atributo Alt en HTML** para imagenes, que da una descripcion de la imagen para la gente con poca vision que usa lectores.
+	- Otro ejemplo, puede ser el uso correcto de **colores**, ya que no es recomendable la confianza en el color solamente, ya que la combinación de ciertos colores, para personas con ciertas discapacidades visuales como la **deuteranopía** o la **protanopía**, pueden no entender los colores de los objetos como uno espera, por lo que hay que apoyarse en otros elementos como descripciones de texto, figuras, etc.
+	- Otro ejemplo, es el uso del **contraste** adecuado para los diferentes colores del objeto. Se pueden usar herramientas online para verificar si hay un buen contraste de color entre elementos. Link: [Color Contrast Checker - Coolors](https://coolors.co/contrast-checker/112a46-acc8e5)
+	- Para **textos** largos, una solución que se puede aplicar es el no uso del **justificado** (solo para textos impresos) ya que cansa la vista del usuario.
+		- Deben ser textos lo suficientemente **grandes**.
+		- No se debe abusar de estilos como **negrita, itálica, mayúsculas, etc.**, ya que su uso es especifico.
+		- Las tipografías deben ser accesibles como por ejemplo las **sans-serif**.
+		- El **interlineado** entre párrafos y entre líneas, debe ser lo suficientemente amplio.
+		- Cuando se usan **textos sobre imágenes**, se debe cuidar que el texto se pueda leer correctamente, con cierto contraste entre texto e imagen.
+	- El uso de la correcta **cantidad de información** en el elemento, disminuye la fatiga visual del usuario al usarlo.

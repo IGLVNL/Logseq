@@ -1,0 +1,9 @@
+- Son pruebas que estudian a un grupo de usuarios interactuando con el producto.
+- El objetivo es evaluar que tan fácil, agradable y satisfactorio es para el usuario alcanzar sus objetivos al usar el producto o servicio. Esto permite detectar **errores** y encontrar puntos de **mejora** de la experiencia. También se logra **aprender** sobre los usuarios.
+- Son necesarios 3 elementos: el **facilitador** (quien lleva a cabo la prueba), la **prueba**, y el **participante** (quien realiza la prueba).
+- Tipos de pruebas
+	- **Pruebas moderadas:** Un facilitador guía la sesión, proporcionando instrucciones, respondiendo preguntas y tomando notas. Se intenta que el moderador no se involucre de mas en la sesión.
+	- **Pruebas no moderadas:** Los usuarios realizan las tareas por su cuenta, sin la presencia de un facilitador. Se utilizan herramientas de grabación de pantalla, voz y clics para recopilar datos.
+	- **Pruebas de guerrilla:** Pruebas informales y rápidas realizadas con personas en lugares públicos (cafeterías, parques, plazas). Encuestas.
+	- **Pruebas remotas:** Los usuarios participan desde su propia ubicación utilizando herramientas online para compartir su pantalla y voz.
+	- **Pruebas de usabilidad con expertos (Evaluación Heurística):** Aunque técnicamente no involucran usuarios finales, expertos en usabilidad evalúan la interfaz basándose en los principios heurísticos establecidos.
