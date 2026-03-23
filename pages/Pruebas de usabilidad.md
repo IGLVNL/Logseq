@@ -1,9 +1,145 @@
 - Son pruebas que estudian a un grupo de usuarios interactuando con el producto.
 - El objetivo es evaluar que tan fácil, agradable y satisfactorio es para el usuario alcanzar sus objetivos al usar el producto o servicio. Esto permite detectar **errores** y encontrar puntos de **mejora** de la experiencia. También se logra **aprender** sobre los usuarios.
 - Son necesarios 3 elementos: el **facilitador** (quien lleva a cabo la prueba), la **prueba**, y el **participante** (quien realiza la prueba).
-- Tipos de pruebas
+- ***Tipos de pruebas***
 	- **Pruebas moderadas:** Un facilitador guía la sesión, proporcionando instrucciones, respondiendo preguntas y tomando notas. Se intenta que el moderador no se involucre de mas en la sesión.
 	- **Pruebas no moderadas:** Los usuarios realizan las tareas por su cuenta, sin la presencia de un facilitador. Se utilizan herramientas de grabación de pantalla, voz y clics para recopilar datos.
 	- **Pruebas de guerrilla:** Pruebas informales y rápidas realizadas con personas en lugares públicos (cafeterías, parques, plazas). Encuestas.
 	- **Pruebas remotas:** Los usuarios participan desde su propia ubicación utilizando herramientas online para compartir su pantalla y voz.
 	- **Pruebas de usabilidad con expertos (Evaluación Heurística):** Aunque técnicamente no involucran usuarios finales, expertos en usabilidad evalúan la interfaz basándose en los principios heurísticos establecidos.
+- Estas pruebas se deben realizar a pequeños grupos de usuarios, de no mas de 4 i 5 personas. Una vez analizados los datos, se puede volver a iterar la prueba, con el mismo grupo para ver el cambio, o con un grupo nuevo.
+- ***Aspectos de las Pruebas de Usabilidad***
+	- **Usuarios reales**: Se reclutan usuarios que representen al público objetivo del producto o servicio.  Se usa le técnica **screener** para seleccionar a las personas. Se debe evitar usuarios expertos o pertenecientes a la organización.
+	- **Tareas específicas**: Se les pide a los usuarios que completen tareas concretas y realistas utilizando el producto. Deben ser acordes con el objetivo a realizar en la investigación. No deben darse muchos detalles a los usuarios. Deben centrarse en el usuario. Se les debe dar una breve descripción del contexto de la prueba.
+	- **Observación**: Un facilitador observa en silencio cómo los usuarios interactúan con la interfaz. Debe ser neutral.
+	- **Pensamiento en voz alta**: Se anima a los usuarios a verbalizar sus pensamientos, sentimientos y decisiones mientras realizan las tareas.
+	- **Recopilación de datos**: Se recopilan datos cualitativos (observaciones, comentarios, frustraciones) y, en algunos casos, cuantitativos (tiempo de finalización de tareas, tasa de éxito, número de errores).
+	- **Identificación de problemas**: El análisis de los datos recopilados permite identificar los problemas de usabilidad que los usuarios encuentran.
+- ***Preparación de las pruebas***
+	- **Bienvenida amistosa**: Da la bienvenida al usuario y haz que se sienta cómodo. Explícale que estás buscando una opinión sincera.
+	- **Preguntas de contexto**: Comienza con una charla fácil y luego pasa a las preguntas o dinámicas de la prueba.
+	- **Presentación del prototipo**: Recuerda al usuario que es posible que algunas cosas no funcionen y que no le estás poniendo a prueba. Pídele que piense en voz alta.
+	- **Tareas y empujones**: Observa cómo el usuario descubre el prototipo por sí mismo. Haz preguntas de seguimiento para ayudarlo a pensar en voz alta.
+	- **Informa**: Haz preguntas que inciten al usuario a resumir. Dale las gracias, entrégale algún presente y acompáñale a la salida.
+- ***Recomendaciones para el facilitado***r
+	- Sé un anfitrión empático. No olvides sonreír y ser amable.
+	- No te lances a hacer pruebas desde el principio. Intenta establecer una buena relación entablando conversaciones triviales.
+	- Deja que los participantes resuelvan las cosas por sí mismos. Intenta responder a las preguntas con preguntas.
+	- Haz preguntas **5W y 1H**: quién, qué, dónde, cuándo, por qué y cómo.
+	- Utiliza el silencio o las pausas conscientes. Pueden ser útiles para hacer hablar a la gente.
+	- Evita las preguntas capciosas. Sé específico.
+	- Evita hablar demasiado. Deja que los participantes expliquen su proceso sobre la marcha.
+	- Estate atento a las señales no verbales de los participantes. Si empiezan a sentirse frustrados, averigua por qué.
+	- Agradece el tiempo que le han dedicado. Sé sincero en tu agradecimiento.
+- ***Beneficios de las Pruebas de Usabilidad***
+	- **Detectar problemas reales**: Revelan obstáculos y frustraciones que los usuarios experimentan al interactuar con productos o servicios.
+	- **Obtención de feedback directo**: Proporcionan información valiosa sobre cómo los usuarios perciben y utilizan los productos y servicios.
+	- **Validación de decisiones de diseño**: Permiten confirmar si las decisiones de diseño son intuitivas y efectivas.
+	- **Reducción de costos**: Identificar problemas en el proceso de diseño puede evitar costosas modificaciones posteriores al lanzamiento.
+	- **Mejora de la satisfacción del usuario**: Un producto o servicio fácil de usar y eficiente conduce a una mayor satisfacción.
+	- **Aumento de la conversión y compromiso**: Una buena usabilidad mejora las tasas de conversión, la retención y el compromiso de los usuarios con el producto o servicio.
+- ***¿Cuándo realizar Pruebas de Usabilidad?***
+	- Se pueden realizar en diferentes etapas del ciclo de vida del desarrollo del producto o servicio:
+		- **Pruebas tempranas**: Con bocetos en papel o prototipos de baja fidelidad, para identificar problemas conceptuales y de flujo.
+		- **Pruebas con prototipos de alta fidelidad**: Para evaluar la interfaz visual y la interacción detallada.
+		- **Pruebas con la versión beta o el producto lanzado**: Para identificar problemas que hayan pasado desapercibidos y para obtener feedback para futuras mejoras.
+- ***Privacidad y seguridad de los participantes***
+	- Los participantes deben leer y firmar un acuerdo de privacidad y seguridad de sus datos durante las pruebas de usabilidad. Es para evitar problemas legales.
+	- Los datos deben ser los mínimos necesarios.
+	- Depende del país, de la prueba y del producto.
+- ***Fases detalladas para una prueba de usabilidad (Juego de mesa)***
+	- **Fase 1: Planificación**
+		- **Definir los Objetivos de la Prueba**
+			- ¿Qué aspectos específicos del juego quieres evaluar?
+			  Ejemplos: claridad de las reglas, equilibrio del juego, mecánica principal, disfrute general.
+			- ¿Qué preguntas quieres responder?
+			  Ejemplos: ¿Los jugadores entienden cómo ganar? ¿Es el tiempo de juego adecuado? ¿Hay alguna mecánica confusa?
+			- Sé específico para enfocar tus observaciones.
+		- **Seleccionar a los Participantes**
+			- Define tu público objetivo para el juego.
+			- Recluta entre 3 y 5 participantes que representen a tu público objetivo. Un número pequeño permite observaciones más detalladas.
+			- Considera la experiencia previa de los participantes con juegos de mesa: novatos, ocasionales, experimentados.
+			- Ofrece una pequeña compensación (opcional) para incentivar la participación.
+		- **Diseñar las Tareas**
+			- Identifica las acciones y etapas clave del juego.
+			- Crea una lista de tareas específicas que los participantes deberán realizar durante la prueba. Estas deben cubrir los aspectos a evaluar.
+			  Ejemplos: *Configura el juego.*, *Roba una carta de [tipo].*, *Ataca a otro jugador.*, *Activa tu habilidad especial.*, *Intenta ganar el juego.*
+			- Organiza las tareas en un orden lógico que siga el flujo natural del juego.
+	- **Fase 2: Preparación**
+		- **Preparar el Material de la Prueba**
+			- Juego completo: Asegúrate de tener todas las piezas, cartas, tablero y manual de reglas en perfecto estado.
+			- Guía para el Facilitador: Incluye las instrucciones iniciales, la lista de tareas, las preguntas de seguimiento y cualquier información relevante.
+			- Formulario de Consentimiento Informado: Explica el propósito de la prueba, asegura la confidencialidad y pide que lo firmen.
+			- Formulario de Observación: Prepara un documento (físico o digital) para que el facilitador tome notas sobre el comportamiento de los jugadores, las dificultades que encuentran, sus comentarios y cualquier otra observación relevante.
+			- Cámaras y Micrófonos: Si es posible, graba las sesiones (audio y video) para su posterior análisis, asegurándote de obtener el consentimiento de los participantes.
+		- **Espacio de prueba**
+			- Elige un lugar tranquilo y bien iluminado donde los participantes puedan jugar cómodamente sin distracciones.
+	- **Fase 3: Ejecución de la Prueba**
+		- **Introducción (5-10 minutos)**
+			- Da la bienvenida a los participantes y agradéceles su tiempo.
+			- Explica brevemente el propósito de la prueba (evaluar el juego, no al jugador).
+			- Asegura la confidencialidad y explica cómo se utilizarán los datos. Pide que firmen el formulario de consentimiento.
+			- Pide a los participantes que piensen en voz alta mientras juegan, explicando sus acciones, dudas y decisiones.
+			- Informa a los participantes que no hay respuestas correctas o incorrectas y que estás interesado en su experiencia honesta.
+		- **Realización de las Tareas (Tiempo variable según el juego)**
+			- Presenta la primera tarea a los participantes.
+			- Observa atentamente cómo interactúan con el juego.
+			- Toma notas detalladas sobre:
+				- Dificultades para entender las reglas o las mecánicas.
+				- Errores cometidos.
+				- Preguntas que los participantes hacen.
+				- Expresiones de confusión, frustración o disfrute.
+				- Tiempo que tardan en completar las tareas.
+				- Lenguaje corporal y expresiones faciales (si grabas, asegúrate de tener una cámara en el juego para ver las acciones y otra en el jugador para ver sus reacciones).
+			- Interviene lo menos posible. Solo responde a preguntas directas sobre reglas ambiguas si es absolutamente necesario para que la prueba continúe, y anota que tuviste que intervenir.
+			- Asegúrate de que el participante complete todas las tareas diseñadas.
+	- **Fase 4: Retroalimentación Post Prueba**
+		- **Sesión de Preguntas y Retroalimentación (10-15 minutos)**
+			- Una vez finalizadas las tareas (o el juego, si aplica), realiza una breve entrevista a cada participante.
+			- Utiliza preguntas abiertas para obtener información más detallada:
+				- ¿Qué fue lo más fácil de entender del juego?
+				- ¿Qué fue lo más difícil o confuso?
+				- ¿Alguna regla o mecánica no quedó clara?
+				- ¿Cómo describirías la experiencia general del juego?
+				- ¿Qué te gustó más del juego?
+				- ¿Qué cambiarías del juego?
+				- ¿Crees que las reglas están bien equilibradas?
+				- ¿El tiempo de juego te pareció adecuado?
+			- Agradece nuevamente a los participantes por su tiempo y valiosos comentarios.
+	- **Fase 5: Análisis**
+		- **Transcribir y Organizar los Datos**
+			- Si grabaste las sesiones, transcribe las partes relevantes del audio.
+			- Organiza tus notas de observación, las respuestas del cuestionario y cualquier otra información recopilada para cada participante.
+		- **Identificar Patrones y Problemas de Usabilidad**
+			- Busca problemas recurrentes que hayan experimentado varios participantes.
+			- Clasifica los problemas por su gravedad (ejemplo: bloquea el juego, causa confusión, es un pequeño inconveniente).
+			- Identifica las áreas del juego donde los participantes tuvieron más dificultades.
+		- **Analizar los Datos Cuantitativos (si los hay)**
+			- Calcula las tasas de éxito de las tareas, el tiempo promedio de finalización, el número promedio de errores, etc.
+	- **Fase 6: Informe**
+		- **Generar Hallazgos y Recomendaciones**
+			- Resume los principales problemas de usabilidad encontrados.
+			- Proporciona ejemplos específicos de las observaciones para respaldar tus hallazgos.
+			- Ofrece recomendaciones concretas y viables para mejorar la claridad de las reglas, la mecánica del juego y la experiencia del jugador.
+			- Prioriza las recomendaciones según la gravedad de los problemas y su impacto en la experiencia del usuario.
+		- **Crear un Informe de Usabilidad**
+			- Documenta todo el proceso, desde los objetivos de la prueba hasta las conclusiones y recomendaciones.
+			- Incluye:
+				- Resumen ejecutivo.
+				- Objetivos de la prueba.
+				- Metodología (participantes, tareas, procedimiento).
+				- Hallazgos detallados (problemas de usabilidad con ejemplos).
+				- Recomendaciones.
+				- Apéndices:
+					- Guía del Facilitador.
+					- Formulario de Consentimiento Informado.
+					- Formulario de Observación.
+					- Lista de tareas durante la prueba.
+					- Preguntas post prueba a los participantes.
+					- Grabación de la prueba.
+	- **Fase de Iteración**
+		- Se ejecuta las veces que sea necesario durante la vida del producto.
+		- **Realizar Cambios en el Juego**
+			- Basándote en los hallazgos y recomendaciones, revisa y modifica las reglas, los componentes o el diseño del juego.
+		- **Realizar Nuevas Pruebas**
+			- Si los cambios fueron significativos, considera realizar otra ronda de pruebas de usabilidad con nuevos participantes para evaluar si las modificaciones han solucionado los problemas identificados y no han introducido nuevos.

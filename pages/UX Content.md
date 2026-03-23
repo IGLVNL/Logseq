@@ -1,0 +1,5 @@
+- Son todos aquellos elementos dentro del servicio o producto, con el que el usuario va a interactuar. Imágenes, texto, botones, etc.
+- Es el área que ***comunica*** al usuario, apoyando a que el usuario pueda cumplir sus objetivos.
+- Es la materialización lingüística y visual del producto.
+- Conlleva la correcta y coherente selección de dichos elementos.
+- [[Content strategy]] vs [[Content Writing]]

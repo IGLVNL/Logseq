@@ -9,3 +9,4 @@
 		- A este punto refiere la [[Arquitectura de la información]] y el [[Análisis de los usuarios]]
 		- La correcta información permite optar por la correcta [[Estrategia de contenido]] que se va a presentar a los usuarios
 	- La UX se asocia mas al hemisferio izquierdo del cerebro
+- [[UX Content]]

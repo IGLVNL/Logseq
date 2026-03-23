@@ -1,0 +1,29 @@
+- Es la **planificación, creación, gestión y organización del contenido** de un producto digital (web, app, sistema) para que sea **útil, claro y alineado con las necesidades del usuario y del negocio**.
+- No es solo “qué texto poner”, sino **cómo el contenido guía la experiencia** adoptando una visión holística del contenido.
+- Es decidir:
+	- **Qué contenido mostrar**
+	- **Cómo decirlo (tono y lenguaje)**
+	- **Dónde y cuándo mostrarlo**
+	- **Para quién está pensado**
+- ### Componentes clave
+	- **Contenido útil y relevante:** Que realmente ayude al usuario a cumplir su objetivo.
+	- **Claridad y simplicidad:** Evitar confusión, usar lenguaje entendible.
+	- **Consistencia:** Mantener mismo tono, estilo y terminología en todo el producto.
+	- **Arquitectura de la información:** Cómo se organiza el contenido (menús, categorías, jerarquías).
+	- **Tono y voz:** Cómo “habla” el producto (formal, cercano, técnico, etc.). [[Tono de voz]]
+	- **Microcopy:** Textos pequeños pero clave (botones, mensajes de error, instrucciones).
+- ### Ventajas
+	- **Guía las decisiones del usuario**
+	- Reduce errores y frustración
+	- Mejora la comprensión del producto
+	- Impacta directamente en la conversión
+- ### Principales aspectos
+	- **Investigación y análisis** del contenido a seleccionar
+	- Planificación de la distribución y el ciclo de vida del contenido.
+	- Guías de estilo y estándares de contenido.
+	- Auditoría de contenido.
+	- Modelado de contenido.
+	- Creación y curación de contenido.
+	- Definición de la voz y el tono (como se **redacta** el contenido, lo que transmite).
+	- Pruebas y optimización.
+	- **Colaboración** entre todas las áreas que aportan en el desarrollo.

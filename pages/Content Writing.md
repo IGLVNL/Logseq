@@ -1,0 +1,44 @@
+- Es la práctica de **escribir los textos dentro de una interfaz digital** para que la experiencia del usuario sea **clara, fluida y sin fricción**.
+- Si la *Content Strategy* define *qué* contenido va, el UX Writing se enfoca en **cómo se escribe ese contenido en cada interacción concreta** teniendo en cuenta **para quien** va dirigido el contenido. **que quieren** esos usuarios, y **que** se quiere que encuentren.
+- Incluye principalmente el **microcopy**, es decir, los textos pequeños pero clave:
+	- Botones (“Continuar”, “Comprar ahora”)
+	- Mensajes de error
+	- Instrucciones
+	- Formularios (placeholders, ayudas)
+	- Notificaciones
+	- Estados vacíos (“Todavía no tenés pedidos”)
+- El **objetivo** principal es que el usuario:
+	- Entienda qué hacer
+	- No se confunda
+	- Complete sus tareas sin esfuerzo
+- ### Principios clave del UX Writing
+	- ### 1. Claridad ante todo
+		- ❌ “Proceder con la autenticación”
+		- ✅ “Iniciar sesión”
+	- ### 2. Brevedad
+	  Ir directo al punto, sin sobrecargar:
+		- ❌ “Por favor, ingrese su dirección de correo electrónico”
+		- ✅ “Ingresá tu email”
+	- ### 3. Lenguaje humano
+	  Hablar como una persona, no como un sistema:
+		- ❌ “Operación realizada exitosamente”
+		- ✅ “Listo, se guardó”
+	- ### 4. Consistencia
+	  Usar siempre las mismas palabras para lo mismo
+		- ej: no mezclar “carrito”, “bolsa” y “cesta”
+	- ### 5. Empatía
+	  Especialmente en errores:
+		- ❌ “Error en el sistema”
+		- ✅ “No pudimos cargar la página. Probá de nuevo.”
+	- ### Ejemplo completo
+		- Pantalla de login:
+			- Título: “Bienvenido de nuevo”
+			- Campo: “Email”
+			- Campo: “Contraseña”
+			- Botón: “Iniciar sesión”
+			- Error: “La contraseña no es correcta”
+- **Ventajas**
+	- Reduce errores
+	- Mejora la conversión
+	- Hace la experiencia más amigable
+	- Refuerza la identidad de la marca
