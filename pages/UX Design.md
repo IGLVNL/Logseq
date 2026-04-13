@@ -26,4 +26,3 @@
 - Existe el [[Diseño universal]] como modelo a seguir.
 - Las [[10 Leyes del diseño UX]] permiten un diseño que intenta mejorar el diseño universal.
 - [[10 Principios heurísticos]]
-- [[]]

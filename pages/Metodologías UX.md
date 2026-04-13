@@ -4,7 +4,7 @@
 	- 2- Investigación y análisis
 		- Se usan diferentes metodologías de investigación [[User research]].
 		- Luego de la recolección de la información durante el User research se procede al [[UX Mapping]].
-	- 3- [[Diseño de interfaz de usuario]]
+	- 3- [[UI Design]]
 	- 4- Ingeniería y desarrollo
 - Algunas metodologías son:
 	- [[Metodología "Design thinking"]]

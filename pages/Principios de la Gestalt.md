@@ -1,0 +1,14 @@
+- Indican que la suma de todos los elementos visuales, aportan mas que cada elemento por separado.
+- También describen como las personas perciben los elementos visuales en determinadas circunstancias.
+- ### 4 ideas claves
+	- ***Aparición***
+		- El cerebro humano, identifica primero al elemento en su forma general y simple.
+	- ***Cosificación***
+		- El cerebro humano, identifica un elemento completo sin necesidad de tener el detalle de todos los elementos que lo componen. Solo basándose en la distribución de los elementos, completando la información faltante para obtener una idea del objeto mas grande.
+	- ***Multiestabilidad***
+		- Los objetos ambiguos, son interpretados de diferentes maneras por el cerebro, hasta encontrar aquella que es mas dominante y satisfactoria.
+	- ***Invariabilidad***
+		- El cerebro identifica objetos simples independientemente de su posición, rotación (perspectiva) o escala.
+- ## 7 Principios Gestalt
+	- ***Proximidad***
+		-

@@ -1,0 +1,23 @@
+- Es el uso de **elementos y mecánicas de los juegos o videojuegos** en contextos que no son lúdicos (apps, educación, trabajo, marketing) para **motivar, enganchar y mejorar la experiencia del usuario**.
+- ### Elementos típicos de la gamificación
+	- **Tablas de clasificación**
+	- **Barras de progreso**
+	- **Puntos** → por completar acciones
+	- **Niveles** → progreso del usuario
+	- **Insignias (badges)** → logros
+	- **Desafíos/misiones** → objetivos claros
+	- **Ranking (leaderboards)** → comparación con otros
+	- **Recompensas** → incentivos por avanzar
+- ### Ventajas
+	- Aumenta el compromiso del usuario
+	- Fomenta ciertos comportamientos deseados
+	- Mejora la usabilidad
+	- Recopila datos
+	- Genera lealtad
+- ### Requisitos
+	- Conocer a la audiencia
+	- Tener objetivos claros
+	- No abusar de la gamificación
+	- Ofrecer recompensas significativas
+	- Mantener el equilibrio entre la gamificación y los objetivos reales del usuario
+	- Probar y medir los resultados de la gamificación

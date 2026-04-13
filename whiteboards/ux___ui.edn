@@ -24,7 +24,7 @@
 :block/parent 
 {:block/uuid #uuid "69b350ab-c2c7-43b9-824d-f1ddb5ae0711"}
 :block/uuid #uuid "69b49b28-7f13-41bb-86b6-b99167b497c5"} 
-{:block/created-at 1773749501549
+{:block/created-at 1774622904242
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -34,13 +34,13 @@
 :borderRadius 8
 :index 0
 :scale [1 1]
-:pageId "Diseño de experiencia de usuario"
+:pageId "UX Design"
 :scaleLevel "md"
 :fill ""
 :compact false
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 1647.7897141382998]
+:size [400 1876.6445601355274]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -49,9 +49,9 @@
 :point [328 -208]
 :parentId "69b350ab-c2c7-43b9-824d-f1ddb5ae0711"
 :collapsedHeight 0
-:nonce 1773444094538}}
-:block/updated-at 1773749501549} 
-{:block/created-at 1773448477442
+:nonce 1773444094540}}
+:block/updated-at 1774622904242} 
+{:block/created-at 1773749644374
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -67,7 +67,7 @@
 :compact false
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 342.098510615716]
+:size [400 376.815717124972]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -76,8 +76,8 @@
 :point [-112 -208]
 :parentId "69b350ab-c2c7-43b9-824d-f1ddb5ae0711"
 :collapsedHeight 0
-:nonce 1773444109358}}
-:block/updated-at 1773448477442} 
+:nonce 1773444109359}}
+:block/updated-at 1773749644374} 
 {:block/created-at 1773582757563
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -147,7 +147,7 @@
 :block/journal? false
 :block/namespace 
 {:db/id 407}
-:block/updated-at 1773749501557
+:block/updated-at 1774622904241
 :block/created-at 1773359275215
 :block/format :markdown
 :block/type "whiteboard"
