@@ -1,5 +1,4 @@
 {:meta/version 1
-
  ;; Set the preferred format.
  ;; Available options:
  ;; - Markdown (default)
@@ -247,7 +246,35 @@
  ;;  ["js" "Javascript"]
  ;;  ["md" "Markdown"]
  ;;  ]
- :commands []
+ :commands [
+        ["and" "∧"]
+        ["or" "∨"]
+        ["not" "¬"]
+        ["implica" "⇒"]
+        ["equivale" "⇔"]
+        ["pertenece" "∈"]
+        ["noPertenece" "∉"]
+        ["universal" "∀"]
+        ["existe" "∃"]
+        ["naturales" "ℕ"]
+        ["enteros" "ℤ"]
+        ["racionales" "ℚ"]
+        ["irracionales" "𝕀"]
+        ["reales" "ℝ"]
+        ["complejos" "ℂ"]
+        ["complemento" "$\\overline{reemplazar}$"]
+        ["vacío" "∅"]
+        ["raíz enésima" "$\\sqrt[n]{reemplazar}$"]
+        ["fracción" "$\\frac{numerador}{denominador}$"]
+        ["integral" "$\\int f(x) dx$"]
+        ["elevado a la n" "$^n$"]
+        ["subíndice" "$reemplazar_{subíndice}$"]
+        ["menor o igual" "$\\leq$"]
+        ["mayor o igual" "$\\geq$"]
+        ["union" "$\\cup$"]
+        ["intersección" "$\\cap$"]
+        ["inclusion" "$\\subseteq$"]
+  ]
 
  ;; Enable collapsing blocks with titles but no children.
  ;; By default, only blocks with children can be collapsed.

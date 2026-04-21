@@ -1,2 +1,3 @@
 - [[Atajos Logseq]]
 - [[Configurar GIT]]
+- [[Custom keys]]

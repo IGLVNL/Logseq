@@ -1,27 +1,4 @@
-- 1.  Estilos  básicos  de  texto
-	- | Estilo | Cómo escribirlo | Resultado |
-	  | ---- | ---- | ---- |
-	  | Negrita | `**texto**` | **texto** |
-	  | Itálica | `*texto*` o `_texto_` | *texto* |
-	  | Negrita + Itálica | `***texto***` | **texto** |
-	  | Tachado | `~~texto~~` | ~~texto~~ |
-	  | Resaltado | `^^texto^^` | texto resaltado |
-	  | Código inline | ``codigo`` | `codigo` |
-- 2. Encabezados (Headings)
-	- Sirven para estructurar páginas.
-	- | Nivel | Sintaxis |
-	  | ---- | ---- | ---- |
-	  | H1 | `# Título` |
-	  | H2 | `## Título` |
-	  | H3 | `### Título` |
-	  | H4 | `#### Título` |
-	- En logseq, dame un listado de todos los atajos y herramientas de estilo para texto utilizables
-	  
-	  En **Logseq**, el formato de texto se basa principalmente en **Markdown** (y algunas extensiones propias). Esto significa que podés aplicar estilos escribiendo ciertos símbolos alrededor del texto o usando atajos del editor.
-	  
-	  Te dejo un **listado bastante completo de estilos y herramientas de formato** que podés usar.
-	  
-	  ---
+-
 	- # 1.  Estilos  básicos  de  texto
 	  | Estilo | Cómo escribirlo | Resultado |
 	  | ---- | ---- | ---- |

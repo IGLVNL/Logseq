@@ -257,7 +257,253 @@
 		- $$∀ x ∈ ℤ : \sim(x < 3 ⇒ x + 1 < 0)$$
 - ### 12) Considere el predicado o función proposicional:  p(x,y): x + y = 8   con dominio en el conjunto de los números enteros ℤ. Analice el valor de verdad de:
 	- a) ∀ x : ∀ y : p(x, y)
-		-
+	  collapsed:: true
+		- *Falso.* 
+		  x = 1; 
+		  y = 1; 
+		  1 + 1 ≠ 8
 	- b) ∀ x : ∃ y : p(x, y)
+	  collapsed:: true
+		- *Verdadero.*
+		  x = 10; 
+		  y = -2; 
+		  10 + (-2) = 8
 	- c) ∃ x : ∀ y : p(x, y)
+	  collapsed:: true
+		- *Falso.*
 	- d) ∃ x : ∃ y : p(x, y)
+	  collapsed:: true
+		- *Verdadero.* 
+		  x = 7; 
+		  y = 1; 
+		  7 + 1 = 8
+- ### 13) Analice el valor de verdad de las siguientes proposiciones con dos cuantificadores:
+	- a) ∀ x ∈ U : ∃ y ∈ U : (x < y ∨ x < y²)   en U = {1, -2, 3, -4, 5, 0}
+	  collapsed:: true
+		- *Verdadero.*
+	- b) ∀ x ∈ ℝ : ∀ y ∈ ℝ : (x > y ⇒ x² > y²)
+	  collapsed:: true
+		- *Falso.*
+		  x = 2;
+		  y = -4;
+	- c) ∃ x ∈ ℝ : ∀ y ∈ ℝ : (x² > y² ⇒ x > y)
+	  collapsed:: true
+		- *Verdadero.*
+- ### 14) Sabiendo que t : [∀ x : ∃ y : p(x,y)] es verdadera, indique si se puede asegurar el valor de verdad de:
+	- a) ∀ x : ∀ y : p(x,y)
+	  collapsed:: true
+		- *No se puede asegurar*
+	- b) ∃ y : ∀ x : p(x,y)
+	  collapsed:: true
+		- *No se puede asegurar*
+	- c) ∃ x : ∃ y : p(x,y)
+	  collapsed:: true
+		- *seguro es VERDADERA*
+	- d) ∃ x : ∀ y : ~p(x,y)
+	  collapsed:: true
+		- *seguro es FALSA*
+- ### 15) Indique el valor de verdad, demostrando o justificando correctamente:
+	- a) ∃x: p(x) ∧ ∃x: q(x)    es equivalente a    ∃x: [p(x) ∧ q(x)]
+	  collapsed:: true
+		- *No son equivalentes*
+	- b) ∃x: p(x) ∨ ∃x: q(x)    es equivalente a    ∃x: [p(x) ∨ q(x)]
+	  collapsed:: true
+		- *Son equivalentes*
+	- c) ∀x: p(x) ∨ ∀x: q(x)    es equivalente a    ∀x: [p(x) ∨ q(x)]
+	  collapsed:: true
+		- *Np son equivalentes*
+	- d) ∀x: p(x) ∧ ∀x: q(x)    es equivalente a    ∀x: [p(x) ∧ q(x)]
+	  collapsed:: true
+		- *Son equivalentes*
+- ### 16) Escriba en lenguaje simbólico los siguientes razonamientos, indicando el diccionario utilizado, y luego analice la validez de los mismos, demostrando por reglas de inferencia en caso de ser válidos y justificando en caso de ser inválidos:
+	- a) Si me pagan el aguinaldo hoy, pagaré la deuda. Si me 
+	  collapsed:: true
+	  pagan el sueldo hoy, compraré los pasajes. Me pagan el 
+	  sueldo o el aguinaldo hoy. Por lo tanto pagaré la deuda o 
+	  compraré los pasajes.
+		- p: *me pagan el aguinaldo hoy*
+		  d: *pago deuda*
+		  s: *me pagan el sueldo hoy*
+		  c: *compro pasajes*
+		  **p ⇒ d ; s ⇒ c ; s ∴ d ∨ c**
+		  *v(s) = V*
+		  *v(c) = V*
+		  *v(p ⇒ d) = V*
+		  *v(d) = F o V*
+		  *v(d ∨ c) = V*
+		  **El razonamiento es Valido**
+	- b) Si no llueve y no hay viento entonces vuelo en el avión. 
+	  collapsed:: true
+	  Siempre que llueve me siento mal. Ayer no volé en el avión 
+	  y me sentí bien. Por lo tanto, ayer estuvo ventoso.
+		- e: *no llueve*
+		  v: *no hay viento*
+		  a: *vuelo en el avión*
+		  m: *me siento mal*
+		  **e ∧ v ⇒ a ; ~e ⇒ m ; ~a ∧ ~m ∴ ~v**
+		  *v(~a ∧ ~m) = V*
+		  *v(~a) = V*
+		  *v(a) = F*
+		  *v(~m) = V*
+		  *v(m) = F*
+		  *v(~e ⇒ m) = V*
+		  *v(~e) = F*
+		  *v(e) = V*
+		  *v(e ∧ v ⇒ a) = V*
+		  *v(e ∧ v) = F*
+		  *v(v) = F*
+		  *v(~v) = V*
+		  **El razonamiento es Valido**
+	- c) Si llueve, Pablo va al cine. Siempre que Pablo va al cine, 
+	  collapsed:: true
+	  compra pochoclo o helado. Pablo compra pochoclo. Por lo tanto, 
+	  llueve.
+		- v: *llueve*
+		  c: *Pablo va al cine*
+		  p: *compra pochoclo*
+		  h: *compra helado*
+		  **v ⇒ c ; c ⇒ p ∨ h ; p ∴ v**
+		  *v(p) = V*
+		  *v(v ⇒ c) = V*
+		  *v(c) = V o F*
+		  *v(v) = F o V*
+		  **El razonamiento es Invalido**
+	- d) El planeta Kamino no figura en los Archivos. Si un 
+	  collapsed:: true
+	  planeta no figura en los Archivos, es porque no existe o 
+	  bien porque alguien lo borró. El planeta Kamino existe. 
+	  Por lo tanto, alguien lo debe haber borrado del Archivo.
+		- f: *no figura en los Archivos*
+		  e: *no existe*
+		  b: *alguien lo borró*
+		  **f ; f ⇒ e ∨ b ; ~e ∴ b**
+		  *v(~e) = V*
+		  *v(e) = F*
+		  *v(f) = V*
+		  *v(f ⇒ e ∨ b) = V*
+		  *v(e ∨ b) = V*
+		  *v(b) = V*
+		  **El razonamiento es Valido**
+- ### 17) Analice si los siguientes razonamientos son válidos o inválidos, demostrando o justificando según corresponda por el método del condicional asociado:
+	- a) ~p ; q ⇒ t ∨ r ; t ⇒ p ∴ q ⇒ r
+	  collapsed:: true
+		- (~p) ∧ (q ⇒ t ∨ r) ∧ (t ⇒ p) ⇒ (q ⇒ r)
+		  ~p ⟶ V, **p ⟶ F**
+		  q ⇒ r ⟶ F, ***q ⟶ V***, **r ⟶ F**
+		  t ⇒ p ⟶ V, **t ⟶ F**
+		   q ⇒ t ∨ r ⟶ V, t ∨ r ⟶ F, ***q ⟶ F***
+		  *Contradicción en q*
+		  **El razonamiento es Válido**.
+	- b) (p ∧ q) ⇒ r ; ~r ∨ t ; ~t ∴ ~p
+	  collapsed:: true
+		- [(p ∧ q) ⇒ r] ∧ (~r ∨ t) ∧ ~t ⇒ ~p
+		  ~p ⟶ F, **p ⟶V**
+		  ~t ⟶ V, **t ⟶ F**
+		  (~r ∨ t) ⟶ V, ~r ⟶ V, **r ⟶ F**
+		   (p ∧ q) ⇒ r ⟶ V,  (p ∧ q) ⟶ F, **q ⟶ F**
+		  *Tautología*
+		  **El razonamiento es Inválido**.
+	- c) a ⇒ b ; ~b ∨ ~c ; d ⇒ a ∨ c ∴ ~d
+	  collapsed:: true
+		- (a ⇒ b) ∧ (~b ∨ ~c) ∧ (d ⇒ a ∨ c) ⇒ ~d
+		  ~d ⟶ F, **d ⟶V**
+		  d ⇒ a ∨ c ⟶ V, a ∨ c⟶ V
+		  a ⟶ V, c ⟶ F o V , a ⇒ b ⟶ V, **b ⟶ V**
+		  ~b ∨ ~c ⟶ V, ~b ⟶ F, **b ⟶ V**
+		  ~c ⟶ V , **c ⟶ F**
+		  *Tautología*
+		  **El razonamiento es Inválido**.
+	- d) p ⇒ q ∨ r ; p ∨ (~t ∨ s) ; ~q ∧ ~s ; s ⇒ ~t ∴ ~t
+	  collapsed:: true
+		- {p ⇒ q ∨ r} ∧ (p ∨ ~t ∨ s) ∧ (~q ∧ ~s) ∧ (s ⇒ ~t) ⇒ ~t
+		  ~t ⟶ F, **t ⟶ V**
+		  s ⇒ ~t⟶ V, **s ⟶ F**
+		  ~s ⟶ V, ~q ∧ ~s ⟶ V, ~q⟶ V, **q ⟶ F**
+		  p ∨ ~t ∨ s ⟶ V, **p ⟶ V**
+		  p ⇒ q ∨ r ⟶ V, q ∨ r ⟶ V, **r ⟶ V**
+		  *Tautología*
+		  **El razonamiento es Inválido**.
+- ### 18) Dado el siguiente razonamiento complete con una conclusión válida y demuestre por reglas de inferencia:  “Si él iba solo y desarmado, su jefe no lo mataría. Para suplicarle perdón era necesario ir desarmado. Le suplicó pero igualmente su jefe lo mató.” ¿Por qué?
+  collapsed:: true
+	- s: *El iba solo*
+	  d: *El iba desarmado*
+	  j:  *Su jefe no lo mata*
+	  p: *El suplica perdón*
+	  **s ∧ d ⇒ j ; p ⇒ d ; p ∧ ~j ∴ ?**
+	  1) p ⇒ d           (*premisa*)
+	  2) p ∧ ~j         (*premisa*)
+	  3) ~j                 (*Simplificación 2*)
+	  4) s ∧ d ⇒ j     (*premisa*)
+	  5) ~(s ∧ d)      (*Modus Tollens 4 y 3*)
+	  6) ~s ∨ ~d      (*de Morgan*)
+	  7) p                 (*Simplificación 2*)
+	  8) d                 (*Modus Ponens 7 y 1*)
+	  9) ~s               (*Silogismo disyuntivo 8 y 6*)
+	  ∴
+	  **~s (El iba solo)**
+- ### 19) Escriba en forma simbólica, previa definición de un diccionario y de un conjunto universal, y analice la validez de los siguientes razonamientos categóricos, demostrando por reglas de inferencia o justificando correctamente
+	- a) Todos los grafos completos son conexos. Existen grafos simples que no son conexos. Por lo tanto, existen grafos simples que no son completos.
+	  collapsed:: true
+		- A: (x / x es un grafo)
+		  P(x): *x es completo*
+		  S(x): *x es simple*
+		  Q(x): *x es conexo*
+		  **∀x : P(x) ⇒ Q(x) ;  ∃ x : S(x) ∧ ~Q(x) ∴ ∃ x : S(x) ∧ ~P(x)**
+		  1) ∀x : P(x) ⇒ Q(x)           (*premisa*)
+		  2) ∃ x : S(x) ∧ ~Q(x)       (*premisa*)
+		  3)  S(b) ∧ ~Q(b)              (*Particularización existencial 2*)
+		  4)  ~Q(b)                         (*Simplificación 3*)
+		  5)  S(b)                            (*Simplificación 3*)
+		  6)  P(b)⇒Q(b)                 (*Particularización universal 1*)
+		  7)  ~P(b) ∨ Q(b)             (*Equiv. condicional  6*)
+		  8)  ~P(b)                       (*Silogismo disyuntivo 7 y 4*)
+		  9)  S(b) ∧ ~P(b)            (*Ley de Combinación 8 y 5*)
+		  10)  ∃ x : S(x) ∧ ~P(x)    (*Generalización existencial 9*)
+		  ∴ **El razonamiento es Valido**
+	- b) Algunos invitados son ingenieros. Algunos ingenieros dan clases en la facultad. Por lo tanto, algunos invitados dan clases en la facultad.
+	  collapsed:: true
+		- A: (x / x es una persona)
+		  S(x): *x es invitado*
+		  P(x): *x es ingeniero*
+		  Q(x): *x da clases en la facultad*
+		  **∃ x S(x) ∧ P(x) ;  ∃ x P(x) ∧ Q(x) ∴ ∃ x : S(x) ∧ Q(x)**
+		  Juan es invitado e ingeniero.        S(x) es V pero Q(x) es F
+		  María es ingeniera y da clases      P(x) es V pero S(x) es F
+		  ∴ **El razonamiento es Invalido**
+	- c) Todos los bebés de Terapia estaban en incubadora o con respirador. Los que estaban en incubadora eran prematuros y de bajo peso. Lucio, uno de los bebés de Terapia, tenía buen peso. Por lo tanto, al menos un bebé de Terapia estaba con respirador.
+	  collapsed:: true
+		- A: (x / x es un bebe de terapia)
+		  N(x): *x esta en incubadora*
+		  R(x): *x esta con respirador*
+		  P(x): *x es con prematuro*
+		  B(x): *x es de bajo peso*
+		  **∀x: N(x) ∨ R(x) ;  ∀x: N(x) ⇒ P(x) ∧ B(x) ; ~B(Lucio) ∴ ∃ x : R(x)**
+		  1) ∀x: N(x) ⇒ P(x) ∧ B(x)                                              (*premisa*)
+		  2) ~B(Lucio)                                                                   (*premisa*)
+		  3) ∀x: N(x) ∨ R(x)                                                          (*premisa*)
+		  4) N(Lucio) ⇒ P(Lucio) ∧ B(Lucio)                               (*Particularización universal 1*)
+		  5) ~N(Lucio) ∨ (P(Lucio) ∧ B(Lucio))                           (*equiv. del condicional 4*)
+		  6) (~N(Lucio) ∨ P(Lucio)) ∧ (~N(Lucio) ∨ B(Lucio))   (*Distributividad 5*)
+		  7) ~N(Lucio) ∨ B(Lucio)                                                (*Simplificación 6*)
+		  8) ~N(Lucio)                                                                   (*Silogismo disyuntivo 7 y 2*)
+		  9) N(Lucio) ∨ R(Lucio)                                                   (*Particularización universal 3*)
+		  10) R(Lucio)                                                                     (*Silogismo disyuntivo 9 y 8*)
+		  ∴ **El razonamiento es Invalido**
+	- d) Todas las matrices que tienen dos filas iguales no son inversibles. Las matrices 
+	  collapsed:: true
+	  inversibles tienen determinante distinto de cero. El determinante de la matriz “A” es 
+	  cero. Por lo tanto, la matriz “A” tiene dos filas iguales.
+		- A: (x / x es una matriz)
+		  F(x): *x tienen dos filas iguales*
+		  N(x): *x es inversible*
+		  D(x): *x tiene determinante distinto de cero*
+		  **∀x: F(x) ⇒ ~N(x) ;  ∀x: N(x) ⇒ D(x) ; ~D(A) ∴ F(A)**
+		  1) ∀x: F(x) ⇒ ~N(x)                                            (*premisa*)
+		  2)  F(A) ⇒ ~N(A)                                                 (*Particularización universal 1*)
+		  3)  ∀x: N(x) ⇒ D(x)                                             (*premisa*)
+		  4)  N(A) ⇒ D(A)                                                   (*Particularización universal 3*)
+		  5) ~D(A)                                                               (*premisa*)
+		  6)  ~N(A)                                                               (*Modus Tollens 5 y 4*)
+		  ∴ **El razonamiento es Invalido**
+	- ### 20) Indique un conjunto Universal y una interpretación de los esquemas proposicionales para comprobar la invalidez del siguiente razonamiento: 
+	  ∀ x : [ d(x) ⇒ c(x) ] ; ∃ x : [ ~c(x) ∧ p(x) ] ∴ ∀ x : [ c(x) ∨ p(x) ]

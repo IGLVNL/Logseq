@@ -1,0 +1,14 @@
+- Para usar símbolos que no están en el teclado, se puede configurar custom keys, que se acceden al escribir la tecla < y luego buscar en el listado de comandos emergente la keyword que se le asignó al símbolo.
+  Para esto, se debe acceder al archivo config.edn dentro del espacio de trabajo, y buscar la linea  :commands [ ] en donde dentro del corchete se escriben los comandos asociados a cada carácter, por ejemplo, de esta manera:
+- :commands [
+	- ["and" "∧"]
+	- ["or" "∨"]
+	- ["not" "¬"]
+	- ["implica" "⇒"]
+	- ["equivale" "⇔"]
+	- ["pertenece" "∈"]
+	- ["universal" "∀"]
+	- ["existe" "∃"]
+	- ["reales" "ℝ"]
+	- ["enteros" "ℤ"]
+	- ]
