@@ -200,7 +200,6 @@ Halle:
 	  collapsed:: true
 		- X $\subseteq$ B = {∅ , {1} , {3} , {1 , 3} }
 - ### 6) Demuestre las siguientes propiedades de Conjuntos, usando las definiciones y propiedades lógicas y justificando cada una en cada paso. Luego represente por diagramas de Venn para visualizar lo demostrado:
-  collapsed:: true
 	- a) A $\cap$ B $\subseteq$ A
 	  collapsed:: true
 		- ∀x:[ x ∈ (A $\cap$ B) ⇒ x ∈ A   *Def. de inclusión*
@@ -216,7 +215,6 @@ Halle:
 		   ⇔ ( x ∈ A ∧ x ∈ C) ∨ ( x ∈ B ∧ x ∈ C )     *Distributividad*
 		   ⇔ ( A $\cap$ C ) $\cup$ ( B $\cap$  C) ]     *Def. de intersección y unión*
 	- c)  A $\cup$ ( A $\cap$  B ) = A
-	  collapsed:: true
 		- ∀x:[ x ∈ { A $\cup$ ( A $\cap$  B ) }
 		  id:: 69e6c26d-f51f-4193-980b-b2357cc8de5d
 		  ⇒ x ∈ A ∨ ( x ∈ A ∧ x ∈ B )          *Def. de intersección y unión*
@@ -251,7 +249,34 @@ Halle:
 		  ⇔ x ∈ (( A - B ) $\cup$ ( A - C ))  ]   *Def. de unión*
 - ### 7) Demuestre los siguientes condicionales o bicondicionales, justificando todas las propiedades utilizadas:
 	- a) A $\subseteq$ C ∧ B $\subseteq$ D ⇒ A $\cup$ B $\subseteq$ C $\cup$ D
+		- ∀x : [ x ∈ (A $\cup$ B)
+		  id:: 69e77023-e0b1-453f-ae30-cb769349305f
+		   ⇒ (x ∈ A ∨ x ∈ B)                *Def. de unión*
+		   ⇒ (x ∈ C ∨ x ∈ D)                *Por hipótesis*
+		   ⇒ x ∈ (C $\cup$ D)   ]                 *Def. de unión*
 	- b) ( A – B ) U ( A $\cap$ B ) = B  ⇒ B $\subseteq$ A
+		- ∀x : [ x ∈ B
+		   ⇒ (x ∈ (( A – B ) U ( A $\cap$ B)) )                     *Por hipótesis*
+		   ⇒ ((x ∈ A ∧ x ∉ B ) ∨ ( x ∈ A ∧ x ∈ B))                *Def. de unión, diferencia e Intersección*
+		   ⇒ (x ∈ A ∧ (x ∉ B ∨ x ∈ B))                *Distributividad*
+		   ⇒ (x ∈ A ∧ V)                *Tercero excluido*
+		   ⇒ x ∈ A  ]              *Identidad*
 	- c) A = $\overline{C}$ $\cap$ ( B $\cup$ C)  ⇒ A $\subseteq$ B
+		- ∀x : [ x ∈ A
+		   ⇒ (x ∈ ($\overline{C}$ $\cap$ ( B $\cup$ C))                *Por hipótesis*
+		   ⇒ ((x ∈ $\overline{C}$ ∧ (x ∈ B ∨ x ∈ C))                *Def. de unión, diferencia e Intersección*
+		   ⇒ ((x ∈ $\overline{C}$ ∧ x ∈ B) ∨ (x ∈ $\overline{C}$ ∧ x ∈ C))               *Distributividad*
+		   ⇒ ((x ∈ $\overline{C}$ ∧ x ∈ B) ∨ F)                      *Tercero excluido*
+		   ⇒ (x ∈ $\overline{C}$ ∧ x ∈ B)                           *Identidad*
+		   ⇒ (x ∈ $\overline{C}$ ∧ x ∈ B) ∨ x ∈ B                       *Adición*
+		   ⇒ x ∈ B    ]           *Absorción*
 	- d) Y $\subseteq$ X ⇔ $\overline{X}$ $\cap$ Y = ∅
+		- ∀x : [ x ∈ A
+		   ⇒ (x ∈ ($\overline{C}$ $\cap$ ( B $\cup$ C))                *Por hipótesis*
+		   ⇒ ((x ∈ $\overline{C}$ ∧ (x ∈ B ∨ x ∈ C))                *Def. de unión, diferencia e Intersección*
+		   ⇒ ((x ∈ $\overline{C}$ ∧ x ∈ B) ∨ (x ∈ $\overline{C}$ ∧ x ∈ C))               *Distributividad*
+		   ⇒ ((x ∈ $\overline{C}$ ∧ x ∈ B) ∨ F)                      *Tercero excluido*
+		   ⇒ (x ∈ $\overline{C}$ ∧ x ∈ B)                           *Identidad*
+		   ⇒ (x ∈ $\overline{C}$ ∧ x ∈ B) ∨ x ∈ B                       *Adición*
+		   ⇒ x ∈ B    ]           *Absorción*
 	- e) A $\cup$ $\overline{B}$ = $\overline{B}$  ⇔  A $\cap$ B = ∅
