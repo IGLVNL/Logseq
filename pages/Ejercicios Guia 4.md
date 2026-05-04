@@ -102,7 +102,7 @@
 		- 2 | 2 ∨ 2 | 3 ⇒  2 | (2 + 3)
 		  `Falso`
 - ### 4) Indique de las siguientes opciones, la que se desprende necesariamente de: 
-                                          a | r ∧ a | s  en  ℤ – {0}
+                                          *a | r ∧ a | s  en  ℤ – {0}*
 	- a) a  |  (r + s –1)
 	  collapsed:: true
 		- 3 | 6 ∧ 3 | 12 ⇒ 3 | 6 + 12 -1
@@ -165,3 +165,104 @@
 		  mcd = |525* 124| / mcm  =  65100/ 65100
 		  `mcd = 1`   **Son Coprimos**
 - ### 6) Calcule los enteros a y b sabiendo que son coprimos y que los cocientes sucesivos de la aplicación del Algoritmo de Euclides para hallar el m.c.d.(a,b) son: 2, 5, 11, 1, 1 y 3 (incluyendo la que da resto cero).
+  collapsed:: true
+	- *Planteo inicial*
+	  collapsed:: true
+		- b = a * 2 + r1
+		  a = r1 * 5 + r2
+		  r1 = r2 * 11 + r3
+		  r2 = r3 * 1 + r4
+		  r3 = r4 * 1 + r5
+		  r4 = r5 * 3 + r6
+	- *Resolución (despejando de atrás hacia adelante)*
+	  collapsed:: true
+		- b = a * 2 + r1 ⇒ b = 412 * 2 + 81 ⇒ `b = 905`
+		  a = r1 * 5 + r2 ⇒ a = 81 * 5 + 7 ⇒ `a = 412`
+		  r1 = r2 * 11 + r3 ⇒ r1 = 7 * 11 + 4 ⇒ r1 = 81
+		  r2 = r3 * 1 + r4 ⇒ r2 = 4 * 1 + 3 ⇒ r2 = 7
+		  r3 = r4 * 1 + 1 ⇒ r3 = 3 * 1 + 1 ⇒ r3 = 4
+		  r4 = 1 * 3 + 0 ⇒ r4 = 3
+- ### 7) Siendo Dn= { x ∈ ℕ / x│n}:
+	- a) Halle D75, D36, D42
+	  collapsed:: true
+		- D75 = {1 , 3 , 5 , 15 , 25 , 75}
+		- D36 = {1 , 2 , 3 , 4 , 6 , 9 , 12 , 18 , 36}
+		- D42 = {1 , 2 , 3 , 6 , 7 , 14 , 21 , 42}
+	- b) Encuentre el menor número natural n tal que │Dn│ = 8  y halle un valor de n natural y n > 100 tal que  │Dn│ = 2
+	  collapsed:: true
+		- D24= {1 , 2 , 3 , 4 , 6 , 8 , 12 , 24} `n = 24`
+		- D101 = {1 , 101} `n = 101`
+	- c) Si consideramos el conjunto de divisores positivos propios de n, es decir todos menos 
+	  collapsed:: true
+	  el mismo n:   D*$_{n}$ = { x ∈ ℕ / x │ n ∧ x < n}, halle algún número perfecto sabiendo 
+	  que se llama así a los que son iguales a la suma de sus divisores positivos propios.
+		- D*$_{6}$ = {1 , 2 , 3}
+- ### 8) Indique el valor de verdad de las siguientes proposiciones, justificando o demostrando:
+	- a) Es posible hallar dos enteros no coprimos a y b tales que 1 = s a + t b  con s,t ∈ ℤ
+	  collapsed:: true
+		- `Falso` 
+		  Si a y b son coprimos, entonces, por Teorema de Bezout, se puede escribir una ecuación formada por la combinación lineal entre a y b, ambos multiplicados por 2 enteros s y t, igualada a 1
+	- b) [ ∃ s, t ∈ ℤ / 3 = s a + t b ] ⇒ m.c.d.(a,b) = 3
+	  collapsed:: true
+		- `Falso`
+		  3 =  2 * 2 - 1 * 1⇒ m.c.d.(2,1) ≠ 3
+	- c) ∀ a, b ∈ ℕ:  si a y b son coprimos ∧ c | a  entonces b y c son coprimos.
+	  collapsed:: true
+		- ∀ a, b ∈ ℕ:  m.c.d.(a,b) = 1 ∧ c | a ⇒ m.c.d.(c,b) = 1
+		  ∀ a, b ∈ ℕ:  (1 = a * s + b * t) ∧ (a = c * k) ⇒ (1 = c * n + b * m)
+		  1 ⇒
+		  a * s + b * t ⇒          **por hipotesis**
+		  c * k * s + b * t ⇒        **por hipotesis**
+		  c * n + b * t
+		  `Verdadero`
+	- d) ∀ a, b  ∈ ℤ:  m.c.d.(2a, 4b) = 4 ⇒ m.c.d.(a,b) = 2
+	  collapsed:: true
+		- m.c.d.(2*2, 4*3) = 4 ⇒ m.c.d.(2,3) = 1
+		  m.c.d.(4, 12) = 4 ⇒ m.c.d.(2,3) ≠ 2
+		  `Falso`
+	- e)  ∀ a, b  ∈ ℤ:  m.c.d.(a, b) = 1 ⇒ m.c.d.(a+b , ab) = 1
+	  collapsed:: true
+		- ∀ a, b  ∈ ℤ:  a*n + b*m = 1 ⇒ (a+b)*k + (a*b)*J = 1
+		  1 = (a + b - b) * n + b * m = 
+		  a * n  + b * n  - b * n + b * m =
+		  (a + b) * n  + b * (m - n)
+		  
+		  1 = a * n + (a - a + b) * m =     **análogamente**
+		  a * n + a * m - a * m + b * m =
+		  a * (n - m) + (a + b) * m =
+		  a * (n - m) + (a + b) * m
+		  **multiplicando ambos resultados**
+		  (a + b) * n *  a * (n - m)  + b * (m - n) *  a * (n - m) + (a + b) * n * (a + b) * m  + b * (m - n) * (a + b) * m    =
+		  (a + b) * n *  a * (n - m) +(a + b) * n * (a + b) * m +b * (m - n) * (a + b) * m + b * (m - n) *  a * (n - m)   =
+		  (a + b)$^2$ * n * m     +     (a + b) * (n - m) * [n *  a  -   b  * m]    +     a * b * (n - m)$^2$    =
+		- `PREGUNTAR`
+	- f) ∀ a, b ∈ ℕ  (a>b) :  m.c.d.(a,b) =1 ⇒ m.c.d.(a, a-b) = 1
+	  collapsed:: true
+		- m.c.d.(a,b) = 1 ⇒ m.c.d.(a, a-b) = 1
+		  a * J + b * k = 1 ⇒ a * n + (a-b) * m = 1
+		  a * J + b * k = 1 ⇒
+		  a*J  + (a - a + b) * k = 1 ⇒
+		  a*J  + a*k - a*k + b*k  = 1 ⇒
+		  a*(J + k) + (-a + b)*k  = 1 ⇒
+		  a*(J + k) - (a - b)*k  = 1 ⇒
+		  a*n + (a - b)*L  = 1 ⇒
+		  m.c.d.(a, a-b)  = 1
+		  `Verdadero`
+	- g)  Si a = b q + r  con 0 $\leq$ r < b  ⇒ m.c.d.(a,b) = m.c.d.(b,r)
+	  collapsed:: true
+		- b | a ⇒ m.c.d.(a,b) = m.c.d.(b,r)
+		  `Verdadero`  **por propiedad**
+	- h) Sea d = m.c.d.(a,b) ⇒ Los enteros x = a/d  y   z = b/d  son coprimos
+	  collapsed:: true
+		- d = a*J + b*R ⇒ a/d * n + b/d * m = 1
+		  d/d = a*J/d + b*R/d ⇒
+		  1 = a/d*J + b/d*R ⇒
+		  1 = mcd(a/d+ b/d)
+		  `Verdadero`
+	- i) ∀ a ∈ ℤ:  x =(a+1)$^2$  e  y= a(a+2)  son coprimos
+	  collapsed:: true
+		- x = (a+1)$^2$ ∧ y = a*(a+2) ⇒ x * n + y*m = 1
+		  a$^2$ + 2*a + 1 -  a$^2$-2*a = 1 ⇒ 
+		  x - y = 1 ⇒
+		  1*x + (-1)*y = 1
+		  `Verdadero`
