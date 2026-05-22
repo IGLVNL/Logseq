@@ -268,7 +268,7 @@
         ["*raíz enésima" "$\\sqrt[n]{reemplazar}$"]
         ["*fracción" "$\\frac{numerador}{denominador}$"]
         ["*integral" "$\\int f(x) dx$"]
-        ["*potencia" "$^n$"]
+        ["*potencia" "$^{n}$"]
         ["*subíndice" "$reemplazar_{subíndice}$"]
         ["*menor o igual" "≤"]
         ["*mayor o igual" "≥"]
@@ -276,6 +276,10 @@
         ["*union" "$\\cup$"]
         ["*intersección" "$\\cap$"]
         ["*inclusion" "$\\subseteq$"]
+        ["*right arrow" "→"]
+        ["*left arrow" "←"]
+        ["*up arrow" "↑"]
+        ["*down arrow" "↓"]
   ]
 
  ;; Enable collapsing blocks with titles but no children.

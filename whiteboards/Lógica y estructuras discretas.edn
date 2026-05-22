@@ -1,0 +1,126 @@
+{:blocks (
+{:block/created-at 1779049988201
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed true
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "Ejercicios Guía 1"
+:scaleLevel "sm"
+:fill ""
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [320 32]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6bc59f10-522f-11f1-a92b-edfa98d62b62"
+:noFill false
+:point [8 672]
+:parentId "69dbc81c-4b9e-458d-b09f-b904cb25e730"
+:collapsedHeight 3828.6240234375
+:nonce 1779049905044}}
+:block/updated-at 1779049988201} 
+{:block/created-at 1779049982729
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed true
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "Ejercicios Guía 2"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [400 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8ac19900-522f-11f1-a92b-edfa98d62b62"
+:noFill false
+:point [384 672]
+:parentId "69dbc81c-4b9e-458d-b09f-b904cb25e730"
+:collapsedHeight 3002.36328125
+:nonce 1779049957171}}
+:block/updated-at 1779049982729} 
+{:block/created-at 1779050019729
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed true
+:borderRadius 8
+:index 2
+:scale [1 1]
+:pageId "Ejercicios Guia 4"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [400 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a15b6ce0-522f-11f1-a92b-edfa98d62b62"
+:noFill false
+:point [840 664]
+:parentId "69dbc81c-4b9e-458d-b09f-b904cb25e730"
+:collapsedHeight 4447.948760569141
+:nonce 1779049994936}}
+:block/updated-at 1779050019729} 
+{:block/created-at 1779050024686
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed true
+:borderRadius 8
+:index 3
+:scale [1 1]
+:pageId "Ejercicios Guia 5"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [400 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "acf194d0-522f-11f1-a92b-edfa98d62b62"
+:noFill false
+:point [1304 656]
+:parentId "69dbc81c-4b9e-458d-b09f-b904cb25e730"
+:collapsedHeight 138.69988759179273
+:nonce 1779050014372}}
+:block/updated-at 1779050024686})
+:pages (
+{:block/uuid #uuid "69dbc81c-4b9e-458d-b09f-b904cb25e730"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "69dbc81c-4b9e-458d-b09f-b904cb25e730"
+:name "lógica y estructuras discretas"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("6bc59f10-522f-11f1-a92b-edfa98d62b62" "8ac19900-522f-11f1-a92b-edfa98d62b62" "a15b6ce0-522f-11f1-a92b-edfa98d62b62" "acf194d0-522f-11f1-a92b-edfa98d62b62")}}
+:block/updated-at 1779050024686
+:block/created-at 1776011292015
+:block/type "whiteboard"
+:block/name "lógica y estructuras discretas"
+:block/original-name "Lógica y estructuras discretas"})}

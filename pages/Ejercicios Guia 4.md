@@ -221,7 +221,6 @@
 		  m.c.d.(4, 12) = 4 ⇒ m.c.d.(2,3) ≠ 2
 		  `Falso`
 	- e)  ∀ a, b  ∈ ℤ:  m.c.d.(a, b) = 1 ⇒ m.c.d.(a+b , ab) = 1
-	  collapsed:: true
 		- ∀ a, b  ∈ ℤ:  a*n + b*m = 1 ⇒ (a+b)*k + (a*b)*J = 1
 		  1 = (a + b - b) * n + b * m = 
 		  a * n  + b * n  - b * n + b * m =
